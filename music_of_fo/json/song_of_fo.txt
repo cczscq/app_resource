@@ -1,0 +1,2577 @@
+[
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj/201403/W020140326330815006259.jpg",
+        "description": "  \n  记忆，是岁月流淌过的每一个瞬间，每一段都因不可重复而显得弥足珍贵。在片片记忆中，我们所相遇、相识、相知、相依的那些人和事，其实都是因缘而起，而只有惜缘重缘之人，才能真正广结善缘，福祉绵长…… \n  三月下旬，百慕文化“善乐使者”何禹萱发布了她的最新EP《往生的祝福》。EP中的两首歌曲《惜缘》与《往生的祝福》其歌词均出自邓丽君御用作词家、台湾“词坛泰斗”庄奴老先生，音乐部分则由著名青年音乐人百慕三石完成。在两首歌曲中，我们能听到了那悠远长怀的笛声与箫声，像是直抵内心的祈福之光，而何禹萱空灵祥和的声音，又像在轻轻诉说着人与人之间的各种际会因缘…… \n  人生每一种遇见都是缘，只有惜缘，才能得到温暖与幸福。随喜赞叹生命给予我们的一切。岁月静好、安然以对，光影人生，《惜缘》相依……\n",
+        "name": "《往生的祝福》",
+        "listSong": [
+            {
+                "content": " \n \n  \n  惜缘\n   作词：庄奴 作曲：百慕三石 编曲：百慕三石 箫：富强录音/声乐监制：刘珂矣 和音：刘珂矣 缩混：百慕三石 \n   \n  有人说 相见恨晚另有人说 相见不恨晚你和我 能相见能相见 就是缘 \n  又何必 计较早与晚何必计较早与晚但愿相见一程以情相连 \n  我俩结缘到随缘随缘到惜缘一刹那既是永恒一年胜于千万年\n  \n",
+                "name": "惜缘",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20140326/20140326045826_120.mp3"
+            },
+            {
+                "content": " \n \n   \n  往生的祝福 \n  作词：庄奴 作曲：王建勋 编曲：百慕三石 箫：富强 伴唱：百慕三石 录音/声乐监制：刘珂矣 缩混：百慕三石 \n   \n  当我为你 送行的这一刻 亲友的哀伤 咏成离歌声声呼唤 句句都是祝福往生的路上 日丽风和 \n  你的音容 永留在我心中往日的欢聚 恍如日昨你的存在 没有人能替代远离了红尘 即是解脱 \n  乘慈航 渡彼岸 南无阿弥陀佛乐土来 乐土去 南无阿弥陀佛种阴德 结功果 南无阿弥陀佛求安乐 得安乐 南无阿弥陀佛\n  \n",
+                "name": "往生的祝福",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20140326/20140326045430_120.mp3"
+            }
+        ],
+        "songer": "何禹萱"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj/201312/W020131205308424687924.jpg",
+        "description": "  常存仁孝心、百善孝为先。孝在心孝，不仅是礼物重金；孝在行动、不仅是言语慰藉。让我们用平等的心孝敬天下所有的父母、用慈爱的心对待身边的每一个人，用“孝”托起中国梦！\n",
+        "name": "百善孝为先",
+        "listSong": [
+            {
+                "content": " \n \n  歌词： \n  老祖宗留下一句话 \n  祖祖辈辈都用它 \n  爷爷奶奶爸爸妈妈 \n  和和美美幸福一家 \n   \n  如今长大我也成家 \n  常常想起父母的话 \n  无论何时无论何方 \n  魂牵梦绕心归故乡 \n   \n  百善孝为先 天地看得见  \n  幸福快乐在哪里 \n  孝在我心间 孝道满人间 \n  幸福快乐在这里\n  \n",
+                "name": "百善孝为先",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20131205/20131205040740_120.mp3"
+            },
+            {
+                "content": " \n \n  歌词：\n  \n  \n  我站在屋檐下 \n  看到风雨中飘摇的花 \n  才悟出庇荫的真谛 \n  父恩的伟大 \n   \n  您为了儿女们 \n  肩上挑起那沉重的家 \n  默默的默默的付出 \n  从不计代价 \n   \n  一生心血几丝白发 条条的皱纹额头画 \n  儿女成人心未放下 教我们如何报答\n  \n",
+                "name": "父恩",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20131205/20131205040957_120.mp3"
+            },
+            {
+                "content": " \n \n  歌词：\n  \n  \n  茫茫人海你我结缘相伴 \n  谁知这是早已系好的红线 \n  无论岁月流逝苍桑变幻 \n  你我惜缘依旧相依相伴 \n   \n  相依相伴真情不变 \n  心手相牵许下一个愿 \n  愿此生共婵娟 \n  相守到白头 \n  幸福在人间 \n   \n  茫茫人海你我结缘相伴 \n  纵然时空轮转风雨不断 \n  不管一路多么坎坷艰难 \n  你我依然牵手走过人间 \n   \n  相依相伴真情不变 \n  心手相牵许下一个愿 \n  愿此生共婵娟 \n  相守到白头 \n  幸福在人间 \n   \n  相守到白头 \n  幸福在人间\n  \n",
+                "name": "相依相伴",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20131205/20131205041101_120.mp3"
+            }
+        ],
+        "songer": "何禹萱"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj/201312/W020131205341945006996.jpg",
+        "description": " 忘记了呼吸忘记了空气忘记了死生将至在自然的大安祥中休息吧！\n",
+        "name": "禅雨",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "空寂山谷",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20131205/20131205051658_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "随云",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20131205/20131205051638_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "祈请",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20131205/20131205051622_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "祥音",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20131205/20131205051600_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "香钟",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20131205/20131205051529_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "静谧自然",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20131205/20131205051507_120.mp3"
+            }
+        ],
+        "songer": "空雨"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj/201312/W020131205331372033061.jpg",
+        "description": "  如是一张返朴归真的纯钢琴音乐，既是一种新颖的尝试，也是一次通向内心光明的秘密之旅。打开它，随着音符轻轻摇曳，气息渐渐平缓下来，收起一切杂念思绪，全神倾听来自生命最深处，本真的召唤：放下、归来。刹那间，尝到一阵通体的清凉，有一种梦中初醒的欣然。 此中，无为宁静的东方禅意，悠远而体贴，充满能量。 空山飘云、风吹木落、流水花开，在当下一念，发光，大千世界，从容显现！ 琴声清纯似水，晶莹剔透，让尘心在听觉与心灵的内触中，妙乐祥和，在琴弦的共振中融化本心，唤醒灵知，回归本来，回归寂静。\n",
+        "name": "静水禅音",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "清音流水",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20131205/20131205044905_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "落叶满天",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20131205/20131205045009_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "映山竹海",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20131205/20131205045047_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "清静弥陀",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20131205/20131205045111_120.mp3"
+            }
+        ],
+        "songer": "空雨"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj/201308/W020130807280313751068.jpg",
+        "description": " 妙镜法师简历： 18岁学琴于广陵派琴家徐永。秉承 刚柔并济 跌宕起伏 绮丽细腻 音韵并茂的琴风 融佛门禅意于七弦，以音声演人心，为熙熙攘攘付以清风明月，现为广陵派十三代嫡传。流派而无门派 ，愿清净如意普被音之所至。现为山东佛教协会常务理事，青岛湛山寺监院，青岛佛教协会理事，山东湛山佛学院副教务长 琴，以发心音。七弦激荡，无何有而缥渺绕梁；玉指敲花，清风起而明月落怀。或卷或舒，或喜或悲，终以无言而轻抚。世事云烟，丝木且娓娓。冰雪松涛，静默待来者。以不灭音，梅老鹤舞。无去来今，且游心界。",
+        "name": "妙音禅境",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "鸥鹭忘机",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20130807/20130807033315_120.mp3"
+            }
+        ],
+        "songer": "妙镜法师"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj./fhsh/201304/W020130408049936568831.jpg",
+        "description": "",
+        "name": "佛教音乐之圣号篇",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "南无阿弥陀佛",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20130407/20130407053731_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "南无本师释迦牟尼佛",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20130407/20130407054008_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "南无大行普贤王菩萨",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20130407/20130407054404_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "南无大势至菩萨",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20130407/20130407054546_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "南无观世音菩萨",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20130407/20130407055301_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "南无弥勒佛",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20130407/20130407055406_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "南无护法韦驮尊天菩萨",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20130407/20130407055604_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "清净法身佛",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20130407/20130407055718_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "南无消灾延寿药师佛",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20130407/20130407055727_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "南无地藏王菩萨",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20130407/20130407060011_120.mp3"
+            }
+        ],
+        "songer": "刘尊 郭彤"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj/201303/W020130327264318598547.jpg",
+        "description": "  \n 专辑简介 \n 你愿意被自己尚未听过的声音改版吗？星光正灿烂，瞿昙夜睹明星。然后，他成佛了，独白：“真是奇特啊！一切众生皆有如来智慧德相，但以妄想执着而不能证得。”星光正灿烂，夜清吟著纷飞的思绪与梦。然后，夜成了书，独白：“真是奇特啊！书听不见夜，却唱著跟夜一样的意义。”星光正灿烂，有个尚未听过的声音，奇特的存在。\n  \n",
+        "name": "星光正灿烂",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "叩钟偈",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20130327/20130327032317_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "弟子众等",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20130327/20130327030505_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "善哉大丈夫",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20130327/20130327030620_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "回向偈",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20130327/20130327030625_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "警众偈",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20130327/20130327030643_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "开经偈",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20130327/20130327030736_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "钟声偈",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20130327/20130327031049_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "有一菩萨",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20130327/20130327031101_120.mp3"
+            }
+        ],
+        "songer": "释见瓒・释见享・释自韬"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj/201301/W020130116333525003573.jpg",
+        "description": " \n",
+        "name": "莲花盛开",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "观音赞",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20130114/20130114042745_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "地藏菩萨赞",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20130114/20130114042559_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "心中的上师",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20130114/20130114043141_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "梦中的白度母",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20130114/20130114043032_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "恩情",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20130114/20130114042644_.mp3"
+            }
+        ],
+        "songer": "张艳"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj/201212/W020121224337419536035.jpg",
+        "description": "",
+        "name": "菩提树下",
+        "listSong": [
+            {
+                "content": " \n \n  作词：释仁&#xfffd;&#xfffd; 作曲：\n  覃丹&#xfffd;&#xfffd;\n  \n",
+                "name": "正觉天・湛蓝蓝",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121224/20121224040545_.mp3"
+            },
+            {
+                "content": " \n \n  作词：\n  释仁&#xfffd;&#xfffd; 作曲：覃丹&#xfffd;&#xfffd;\n  \n",
+                "name": "自在歌",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121224/20121224040615_.mp3"
+            },
+            {
+                "content": " \n \n  作词：释仁&#xfffd;&#xfffd; 作曲：\n  覃丹&#xfffd;&#xfffd;\n  \n",
+                "name": "朝山",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121224/20121224040715_.mp3"
+            },
+            {
+                "content": " \n \n  作词：释仁&#xfffd;&#xfffd; 作曲：\n  覃丹&#xfffd;&#xfffd;\n  \n",
+                "name": "丐僧歌",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121224/20121224040809_.mp3"
+            },
+            {
+                "content": " \n \n  作词/作曲/演唱：\n  覃丹&#xfffd;&#xfffd; 大悲咒唱诵：因果兄弟\n  \n",
+                "name": "金玉观世音",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121224/20121224040841_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "六字真言（三宝弟子合唱）",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121224/20121224040901_.mp3"
+            },
+            {
+                "content": " \n \n  作词：吴立民 作曲：\n  覃丹&#xfffd;&#xfffd;\n  \n",
+                "name": "金玉观音赞",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121224/20121224040947_.mp3"
+            },
+            {
+                "content": " \n \n  作曲：\n  覃丹&#xfffd;&#xfffd;\n  \n",
+                "name": "南无观世音菩萨",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121224/20121224040650_.mp3"
+            },
+            {
+                "content": " \n \n  作曲：\n  覃丹&#xfffd;&#xfffd; 小提琴独奏：世界著名小提琴家张乐\n  \n",
+                "name": "梵音・自在",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121224/20121224041532_.mp3"
+            }
+        ],
+        "songer": "佚名"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj/201212/W020121207289810623481.jpg",
+        "description": " 总策划：释圣玄 主唱人：郑长铃 全球首揭以音乐创作传诵的“息灾免难特效咒语”，这是由来自台湾的圣玄法师总策划，也是她慈愍众生的献礼。 圣玄法师是来自台湾的佛教出家法师，目前在北京大学/哲学系攻读博士学位。 文殊八字真言，又称：“一切佛心大无畏八字真言”或称：“文殊八字大威德心真言”，是“息灾免难”的特效咒语。 为方便众生传诵，来自台湾、目前在北京大学哲学系攻读博士学位的圣玄法师，以慈悯众生的悲心，用大众喜闻乐见的方式-推出全球首揭一音乐创作传诵的“文殊八字真言”。 这是一个巨变的时代，全球财经定位突变、气候诡异多变、地震/海啸频传、饥荒四起、病苦连连...等等，易言之，这也是一个灾变的时代。如何因应这个现实环境的转变，适时承负自我责任，转化困境顺势，显然是人人刻不容缓应该共同学习的课题。 但历史洪流早已见证人的渺小与软弱，唯有提升智慧，增强身心灵能量，方能超越未来的窘迫，迎接新世代的来临。 文殊师利菩萨，素以“般若智慧”见长，在密教的忿怒相即大威德金刚，她极尽悲愍地将己身化身为八字咒，以大无畏勇士的精神，现身为“空行本尊”，无所不在地护卫众生！众生可以藉由持诵该咒语，取得文殊菩萨的加持力，以应当前种种巨变的到来。 在佛教大藏经典中，有多部经典教导、传授文殊八字真言，例如：《文殊师利宝藏陀罗尼经》、《大方广菩萨藏文殊师利根本仪轨经・卷四》、《大圣妙吉祥菩萨秘密八字陀罗尼修行曼荼罗次第仪轨法》...等等。圣玄法师归纳持诵该咒语之功德利益，如下：一.息灾除难方面：1.不为日月、五星、二十八宿诸恶变怪而起灾患。2.国中无诸风火、霜雹、霹雳等难。3.国中人民，无诸横死者著身。4.若有恐怖处至诚念诵，即得无畏。5.若人患疟，持诵者观彼患人面，诵此真言一千八遍，疟即除差。6.诸军贼等不能为害，自然退散。7.五逆四重十恶等罪悉得消减。二.所求愿满、得殊胜最大福报:1.诸愿悉得随心。一切皆得圆满具足。2.现世成就一切吉祥，诸事圆满。3.得大富贵、所行自在。4.寿命长远，众人爱敬，生珍重心。5.临命终时普门三昧，及见文殊师利菩萨。",
+        "name": "文殊八字真言",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "文殊八字真言咒-译音持诵...",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121207/20121207031547_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "文殊八字真言咒-梵音持诵...",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121207/20121207031653_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "文殊八字真言咒-译音",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121207/20121207031919_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "文殊八字真言咒-梵音",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121207/20121207032512_.mp3"
+            },
+            {
+                "content": " \n \n   作者：释圣玄\n  \n",
+                "name": "圣玄法师运用佛法解读“...",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20121220/20121220041424_.wma"
+            },
+            {
+                "content": " \n \n   \n  \n    作者：释圣玄\n  \n  \n",
+                "name": "圣玄法师运用佛法解读“...",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20121220/20121220041625_.wma"
+            }
+        ],
+        "songer": "释圣玄 郑长铃"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj/201211/W020121110320179213240.jpg",
+        "description": " 歌曲：1、西方极乐世界是我们的香格里拉2、供养谒3、观音菩萨如秋月4、观世音菩萨大悲心及大悲手印双运心咒5、感恩歌6、南无阿弥陀佛（释悟演）7、阿弥陀佛解冤释结咒8、六字真言（释悟演）9、消灾延寿药师佛解冤释结咒10、莲师心咒11、密集玛12、皈依颂\n",
+        "name": "初莲",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "西方极乐世界是我们的香...",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121112/20121112045315_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "供养谒",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121110/20121110034807_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "观音菩萨如秋月",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121110/20121110035128_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "观世音菩萨大悲心及大悲...",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121112/20121112045540_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "感恩歌",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121112/20121112045726_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "南无阿弥陀佛（释悟演）",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121110/20121110035846_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "阿弥陀佛解冤释结咒",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121112/20121112050042_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "六字真言（释悟演）",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121112/20121112051046_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "消灾延寿药师佛解冤释结咒",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121110/20121110040359_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "莲师心咒",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121110/20121110040534_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "密集玛",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121110/20121110040719_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "皈依颂",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121110/20121110040912_.mp3"
+            }
+        ],
+        "songer": "释悟演"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj./jxcy/201210/W020121022342437508099.jpg",
+        "description": " 1 药师佛心咒2 六字大明咒3 文殊菩萨心咒4 辩才天心咒5 施财度母心咒6 黄财神心咒7 白财神心咒8 莲心曲\n",
+        "name": "如来妙音天",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "药师咒",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121022/20121022044002_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "六字大明咒",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121022/20121022044255_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "文殊菩萨心咒",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121022/20121022044557_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "辩才天女心咒",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121022/20121022044820_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "施财度母心咒",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121114/20121114020504_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "白财神心咒",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121022/20121022045135_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "财源天女心咒",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121022/20121022045238_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "莲心曲",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121022/20121022045355_.mp3"
+            }
+        ],
+        "songer": "敬善缘（杨小琳）"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj/201206/W020120629144897650156.jpg",
+        "description": "",
+        "name": "梦 菩提心",
+        "listSong": [
+            {
+                "content": " \n  \n  《思源》 \n  词曲：刘珂矣 编曲：百慕三石演唱：何禹萱 \n  我从一声呼唤走来在茫茫人海第一眼睁开你是我的亲人 \n  我从一步一步走来在无声岁月累坏了肩膀你是我爱的人 \n  饮水思源 海大无边我曾是一颗落进你怀抱的雨点 \n  饮水思源 已隔千年时间已改变我们心相连\n  \n",
+                "name": "思源-何禹萱",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120629/20120629112631_.mp3"
+            },
+            {
+                "content": " \n  \n  《生命如花》作词：三宝弟子 作曲：百慕三石 编曲：百慕三石 演唱：何禹萱 \n  风还在刮 雨还在下 我知道 你已找不到家 你冷不冷 你怕不怕 伸出你的手 让我温暖吧 （好吗）有个地方开满莲花 多少人曾想拥有它 美丽的花 是你的家 让一切苦难泪水化做它 勇敢地站起来 我的孩子啊不要怕风吹雨打 开放吧 开放吧 生命的花我就是你的家\n  \n",
+                "name": "生命如花",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120629/20120629114043_.mp3"
+            },
+            {
+                "content": " \n  \n  《观音菩萨十二大愿》  \n  作词：经文 作曲：百慕三石 编曲：百慕三石演唱：何禹萱 \n  南无号圆通名自在 观音如来 广发弘誓愿  \n  南无一念心无挂碍 观音如来 常居南海愿  \n  南无住娑婆幽冥界 观音如来 寻声救苦愿  \n  南无降邪魔除妖怪 观音如来 能除危险愿  \n  南无清净瓶垂杨柳 观音如来 甘露洒心愿  \n  南无大慈悲能喜舍 观音如来 常行平等愿  \n  南无昼夜巡无损坏 观音如来 誓灭三涂愿  \n  南无望南岳勤礼拜 观音如来 枷锁解脱愿  \n  南无造法船游苦海 观音如来 度尽众生愿  \n  南无前幢幡后宝盖 观音如来 接引西方愿  \n  南无无量寿佛境界 观音如来 弥陀受记愿  \n  南无端严身无比赛 观音如来 果修十二愿\n  \n",
+                "name": "观音菩萨十二大愿",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120629/20120629114250_.mp3"
+            },
+            {
+                "content": " \n  \n  《梦 菩提心》词曲：百慕三石 编曲：百慕三石 演唱：何禹萱 \n  我自梦中来 结缘莲花开浮云渐褪去 静心观自在甘露随愿至 润与苦众生我若随风去 但留菩提心 \n  莲花随心开 自有香泽在修得自身好 无求无尘埃菩提无须根 自有智慧音身若为净土 菩提便是心\n  \n",
+                "name": "梦 菩提心",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120629/20120629114436_.mp3"
+            },
+            {
+                "content": " \n  \n  《醒世歌》作词：憨山大师 作曲：刘珂矣 编曲：百慕三石 演唱：何禹萱 \n  红尘白浪两茫茫，忍辱柔和是妙方。到处随缘延岁月，终身安分度时光。  \n  休将自己心田昧，莫把他人过失扬。谨慎应酬无懊恼，耐烦作事好商量。从来硬弩弦先断，每见钢刀口易伤。惹祸只因闲口舌，招愆多为狠心肠。  \n  是非不必争人我，彼此何须论短长。世事由来多缺陷，幻躯焉得免无常。吃些亏处原无碍，退让三分也不妨，春日才看杨柳绿，秋风又见菊花黄。(菊花黄)荣华终是三更梦，富贵还同九月霜。老病死生谁替得，酸甜苦辣自承当。  \n  人从巧计夸伶俐，天自从容定主张。谗曲贪嗔堕地狱，公平正直即天堂。  \n  麝因香重身先死，蚕为丝多命早亡。一剂养神平胃散，两种和气二陈汤。  \n  生前枉费心千万，死后空留手一双。悲欢离合朝朝闹，寿夭穷通日日忙，  \n  休得争强来斗胜，百年浑是戏文场。顷刻一声锣鼓歇，不知何处是家乡。(是家乡)\n  \n",
+                "name": "醒世歌",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120629/20120629114940_.mp3"
+            },
+            {
+                "content": " \n  \n  度化人间 \n  作词：庄奴 作曲：王建勋 编曲：百慕三石演唱：何禹萱您的步履像白云飘蓝天您的足迹像绿水绕青山时而若隐 时而若现时而就近 时而遥远来来去去 带着满怀慈悲匆匆忙忙为了度化人间来来去去 带着满怀慈悲匆匆忙忙为了度化人间 \n  您的步履像白云飘蓝天您的足迹像绿水绕青山一身朴实 一生平淡一心修佛 一心向善来来去去 带着满怀慈悲匆匆忙忙为了度化人间来来去去 带着满怀慈悲匆匆忙忙为了度化人间匆匆忙忙为了度化人间\n  \n",
+                "name": "度化人间",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120629/20120629115019_.mp3"
+            },
+            {
+                "content": " \n  \n  《忏悔文》作词：经文 作曲：刘珂矣 编曲：百慕三石演唱：何禹萱\n   往昔所造诸恶业皆由&#xfffd;o始贪嗔痴从身语意之所生今&#xfffd;Ψ鹎扒筲慊&#xfffd; \n  罪从心起将心忏心若灭时罪亦亡心灭罪亡两俱空是则名为真忏悔\n  \n",
+                "name": "忏悔文",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120629/20120629115043_.mp3"
+            },
+            {
+                "content": " \n  \n  《八十八佛》 \n  作词：经文 作曲：刘珂矣 编曲：百慕三石演唱：何禹萱 \n  南无普光佛 南无普明佛 南无普净佛 南无多摩罗跋旃檀香佛 南无旃檀光佛 南无摩尼幢佛 南无欢喜藏摩尼宝积佛 南无一切世间乐见上大精进佛 南无摩尼幢灯光佛 南无慧炬照佛 南无海德光明佛 南无金刚牢强普散金光佛 南无大强精进勇猛佛 南无大悲光佛 南无慈力王佛 南无慈藏佛 南无旃檀窟庄严胜佛 南无贤善首佛 南无善意佛 南无广庄严王佛 南无金华光佛 南无宝盖照空自在力王佛 南无虚空宝华光佛 南无琉璃庄严王佛 南无普现色身光佛 南无不动智光佛 南无降伏众魔王佛 南无才光明佛 南无智慧胜佛 南无弥勒仙光佛 南无善寂月音妙尊智王佛 南无世净光佛 南无龙种上尊王佛 南无日月光佛 南无日月珠光佛 南无慧幢胜王佛 南无狮子吼自在力王佛 南无妙音胜佛 南无常光幢佛 南无观世灯佛 南无慧威灯王佛 南无法胜王佛 南无须弥光佛 南无须曼那华光佛 南无优昙钵罗华殊胜王佛 南无大慧力王佛 南无阿&#xfffd;z毗欢喜光佛 南无无量音声王佛 南无才光佛 南无金海光佛 南无山海慧自在通王佛 南无大通光佛 南无一切法常满王佛 南无释迦牟尼佛 南无金刚不坏佛 南无宝光佛 南无龙尊王佛 南无精进军佛 南无精进喜佛 南无宝火佛 南无宝月光佛 南无现无愚佛 南无宝月佛 南无无垢佛 南无离垢佛 南无勇施佛 南无清净佛 南无清净施佛 南无娑留那佛 南无水天佛 南无坚德佛 南无旃檀功德佛 南无无量掬光佛 南无光德佛 南无无忧德佛 南无那罗延佛 南无功德华佛 南无莲花光游戏神通佛 南无财功德佛 南无德念佛 南无善名称功德佛 南无红焰帝幢王佛 南无善游步功德佛 南无斗战胜佛 南无善游步佛 南无周匝庄严功德佛 南无宝华游步佛 南无宝莲花善住娑罗树王佛 南无法界藏身阿弥陀佛 \n  \n",
+                "name": "八十八佛",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120629/20120629114620_.mp3"
+            }
+        ],
+        "songer": "何禹萱"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj/201206/W020120629109778595248.jpg",
+        "description": " 这张“祈福专辑”是由百慕文化旗下艺人何禹萱演唱并参与策划构思的，其中的创作、编配及后期制作也由音乐人百慕三石全力完成，同时这也代表着秘密训练了两年的何禹萱首张专辑问市，不过据她本人透露，这张“祈福专辑”没有任何商业目的，完全是为了结识有缘人，并为遭遇不幸和不快乐的人祈福。专辑中大部分歌曲像《梦莲花缘》、《心》、《灯舞》、《舍下》等音乐作品都受到了老百姓的喜爱。在这样一个“单曲时代”，专辑的发片律已大打折扣，何况这种没有商业目的的“祈福专辑”，让我们跟着《梦 莲花缘》一起祈福天下所有善良的人吧。\n",
+        "name": "《梦 莲花缘》",
+        "listSong": [
+            {
+                "content": " \n  \n  梵音大悲咒-何禹萱词：经文 曲：佚名歌手：何禹萱所属专辑：[梦 莲花缘] \n  拿摩的纳他雅雅拿摩阿雅佳纳萨嘎拉贝&#xfffd;&#xfffd;佳纳 尤哈拉佳雅达他嘎达雅阿啦哈&#xfffd;O桑雅桑布达雅 拿摩萨噜哇达他嘎忒呗阿啦哈达&#xfffd;O桑雅桑布&#xfffd;O 呗拿摩阿雅阿哇噜给&#xfffd;O秀哇啦雅菩提萨哇雅玛 哈萨哇雅玛哈嘎噜尼嘎雅达地雅他嗡达啦达啦 提力提力杜噜杜噜易笛威易笛加勒加勒不啦加 勒不啦加勒固苏美固苏玛哇勒易利密利积地卓 哈啦玛巴纳雅梭哈  \n  拿摩的纳他雅雅拿摩阿雅佳纳萨嘎拉贝&#xfffd;&#xfffd;佳纳 尤哈拉佳雅达他嘎达雅阿啦哈&#xfffd;O桑雅桑布达雅 拿摩萨噜哇达他嘎忒呗阿啦哈达&#xfffd;O桑雅桑布&#xfffd;O 呗拿摩阿雅阿哇噜给&#xfffd;O秀哇啦雅菩提萨哇雅玛 哈萨哇雅玛哈嘎噜尼嘎雅达地雅他嗡达啦达啦 提力提力杜噜杜噜易笛威易笛加勒加勒不啦加 勒不啦加勒固苏美固苏玛哇勒易利密利积地卓 哈啦玛巴纳雅梭哈\n  \n",
+                "name": "梵音大悲咒",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120629/20120629104459_.mp3"
+            },
+            {
+                "content": " \n 心经-何禹萱词：经文 曲：百慕三石歌手：何禹萱所属专辑：[梦 莲花缘] \n 观自在菩萨行深般若波罗蜜多时 照见五蕴皆空度一切苦厄 舍利子色不异空空不异色 色即是空空即是色受想行识 亦复如是舍利子是诸法空相 不生不灭不垢不净不增不减 是故空中无色无受想行识 无眼耳鼻舌身意无色声香味触法 无眼界乃至无意识界无无明 亦无无明尽乃至无老死亦无 老死尽无苦集灭道无智亦无得 以无所得故菩提萨&#xfffd;室腊&#xfffd; 若波罗蜜多故心无&#xfffd;G碍 无&#xfffd;G碍故无有恐怖远离颠倒梦想 究竟涅&#xfffd;&#xfffd;三世诸佛依般若波罗蜜多故 得阿耨多罗三藐三菩提 故知般若波罗蜜多是大神咒 是大明咒是无上咒是无等等咒 能除一切苦真实不虚 故说般若波罗蜜多咒即说咒曰 揭帝揭帝　般罗揭帝　般罗僧揭帝 菩提萨婆诃  \n",
+                "name": "心经",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120629/20120629104353_.mp3"
+            },
+            {
+                "content": " \n  \n  汉音大悲咒-何禹萱词：经文 曲：佚名歌手：何禹萱所属专辑：[梦 莲花缘] \n  南&#xfffd;o喝&#xfffd;逾蚰嵌&#xfffd;&#xfffd;右挂&#xfffd;南&#xfffd;o阿&#xfffd;o耶婆&#xfffd;R羯帝 &#xfffd;q&#xfffd;&#xfffd;&#xfffd;右&#xfffd;菩提&#xfffd;_&#xfffd;势乓&#xfffd;摩&#xfffd;X&#xfffd;_&#xfffd;势乓&#xfffd; 摩&#xfffd;X迦&#xfffd;R尼迦耶&#xfffd;&#xfffd;&#xfffd;_皤&#xfffd;恿P曳&#xfffd;碘蚰氢&#xfffd;&#xfffd;&#xfffd; 南&#xfffd;o悉吉&#xfffd;&#xfffd;&#xfffd;室撩砂&#xfffd;&#xfffd;o耶婆&#xfffd;R吉帝 室佛&#xfffd;鱼恶W婆南&#xfffd;o那&#xfffd;又&#xfffd;墀醯利摩&#xfffd;X 皤哆沙咩&#xfffd;_婆阿他豆&#xfffd;&#xfffd;朋阿逝孕 &#xfffd;_婆&#xfffd;_哆那摩婆&#xfffd;_哆那摩婆伽摩&#xfffd;P特豆 怛&#xfffd;┧&#xfffd;&#xfffd;&#xfffd;阿婆&#xfffd;R醯&#xfffd;R迦帝迦&#xfffd;_帝夷醯&#xfffd;o 摩&#xfffd;X菩提&#xfffd;_&#xfffd;仕_婆&#xfffd;_婆摩&#xfffd;幽&#xfffd;&#xfffd;幽&#xfffd;醯摩醯&#xfffd;o&#xfffd;W孕 俱&#xfffd;R俱&#xfffd;R羯蒙度&#xfffd;R度&#xfffd;R&#xfffd;P&#xfffd;A耶帝摩&#xfffd;X&#xfffd;P&#xfffd;A耶帝 陀&#xfffd;油&#xfffd;&#xfffd;拥&#xfffd;&#xfffd;o尼室佛&#xfffd;右&#xfffd;遮&#xfffd;诱&#xfffd;&#xfffd;幽&#xfffd;&#xfffd;N&#xfffd;P摩&#xfffd;&#xfffd; 穆帝&#xfffd;`伊醯伊醯室那室那阿&#xfffd;&#xfffd;&#xfffd;⒎&#xfffd;&#xfffd;由崂&#xfffd; &#xfffd;P沙&#xfffd;P&#xfffd;⒎&#xfffd;&#xfffd;由嵋&#xfffd;呼&#xfffd;春&#xfffd;&#xfffd;茨&#xfffd;&#xfffd;雍&#xfffd;&#xfffd;春&#xfffd;&#xfffd;歹道&#xfffd; 娑&#xfffd;渔&#xfffd;&#xfffd;酉&#xfffd;&#xfffd;o悉&#xfffd;o&#xfffd;K&#xfffd;刺K&#xfffd;雌刑嵋蛊刑嵋&#xfffd; 菩&#xfffd;W夜菩&#xfffd;W夜&#xfffd;&#xfffd;帝&#xfffd;o夜那&#xfffd;又&#xfffd;墀地利瑟尼那 波夜摩那娑婆&#xfffd;X悉陀夜娑婆&#xfffd;X摩&#xfffd;X悉陀夜 娑婆&#xfffd;X悉陀喻&#xfffd;&#xfffd;室皤&#xfffd;右&#xfffd;娑婆&#xfffd;X那&#xfffd;又&#xfffd;墀 娑婆&#xfffd;X摩&#xfffd;幽&#xfffd;&#xfffd;渔镀旁X悉&#xfffd;由&#xfffd;阿穆&#xfffd;乙&#xfffd; 娑婆&#xfffd;X娑婆摩&#xfffd;X阿悉陀夜娑婆&#xfffd;X者吉&#xfffd;&#xfffd; 阿悉陀夜娑婆&#xfffd;X波陀摩羯悉陀夜娑婆&#xfffd;X 那&#xfffd;又&#xfffd;墀皤伽&#xfffd;右&#xfffd;娑婆&#xfffd;X摩婆利&#xfffd;亵&#xfffd;&#xfffd;右&#xfffd; 娑婆&#xfffd;X南&#xfffd;o喝&#xfffd;逾蚰嵌&#xfffd;&#xfffd;右挂&#xfffd;南&#xfffd;o阿&#xfffd;o耶 婆&#xfffd;醇&#xfffd;帝&#xfffd;q皤&#xfffd;右规镀旁X&#xfffd;&#xfffd;悉殿都漫多&#xfffd;&#xfffd; 跋陀耶娑婆&#xfffd;X \n  \n",
+                "name": "汉音大悲咒",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120629/20120629104602_.mp3"
+            },
+            {
+                "content": " \n  \n  梦 莲花缘-何禹萱词曲：百慕三石歌手：何禹萱所属专辑：[梦 莲花缘] \n  （嗡啊&#xfffd;&#xfffd; 班匝咕噜 巴玛色德&#xfffd;耍&#xfffd; （嗡啊&#xfffd;&#xfffd; 班匝咕噜 巴玛色德&#xfffd;耍&#xfffd; （嗡啊&#xfffd;&#xfffd; 班匝咕噜 巴玛色德&#xfffd;耍&#xfffd; （嗡啊&#xfffd;&#xfffd; 班匝咕噜 巴玛色德&#xfffd;耍&#xfffd;  \n  梦里有朵莲花开在菩提下 朵朵瓣儿清雅如玉洁白无暇 微风吹过水面 亲亲吻着她 水面上泛起一轮 故乡的月牙  \n  梦里有朵莲花开在菩提下 朵朵瓣儿清雅如玉洁白无暇 微风吹过水面 亲亲吻着她 水面上泛起一轮 故乡的月牙  \n  （嗡啊&#xfffd;&#xfffd; 班匝咕噜 巴玛色德&#xfffd;耍&#xfffd; （嗡啊&#xfffd;&#xfffd; 班匝咕噜 巴玛色德&#xfffd;耍&#xfffd; （嗡啊&#xfffd;&#xfffd; 班匝咕噜 巴玛色德&#xfffd;耍&#xfffd; （嗡啊&#xfffd;&#xfffd; 班匝咕噜 巴玛色德&#xfffd;耍&#xfffd;  \n  心里有颗愿望种在菩提下 前世今生只为等待它发芽 那些善良的人啊 总会看到它 所有的灾难困苦都将远离啊 心里有颗愿望种在菩提下 前世今生只为等待它发芽 那些善良的人啊 总会看到它 所有的灾难困苦都将远离啊  \n  （嗡啊&#xfffd;&#xfffd; 班匝咕噜 巴玛色德&#xfffd;耍&#xfffd;（嗡啊&#xfffd;&#xfffd; 班匝咕噜 巴玛色德&#xfffd;耍&#xfffd;（嗡啊&#xfffd;&#xfffd; 班匝咕噜 巴玛色德&#xfffd;耍&#xfffd;（嗡啊&#xfffd;&#xfffd; 班匝咕噜 巴玛色德&#xfffd;耍&#xfffd;（嗡啊&#xfffd;&#xfffd; 班匝咕噜 巴玛色德&#xfffd;耍&#xfffd;\n  \n",
+                "name": "梦 莲花缘",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120629/20120629104726_.mp3"
+            },
+            {
+                "content": " \n  \n  心-何禹萱词：妙音居士 曲：百慕三石歌手：何禹萱所属专辑：[梦 莲花缘] \n  色彩斑斓的花花世界 处处散发出有人芳香 迷茫的执着无限的欲望 使那脆弱的心不再坚强 好累啊 好累 让我那浮躁散乱的心有一分的宁静 给我一个空间 好累啊 好累 给我一个空间 让我那浮躁散乱的心有一分的宁静  \n  一枝杨柳净水洒遍世界 随处结祥云甘露润心田 常行平等愿 慈悲能喜舍 平静祥和的心 润孕着爱 欢喜啊 欢喜 给我一个时间 让我的爱去拥抱所有的生命 欢喜啊 欢喜 给我一个时间 让我的爱去拥抱所有的生命 \n  \n",
+                "name": "心",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120629/20120629104911_.mp3"
+            },
+            {
+                "content": " \n  \n  用爱感动你的心-何禹萱词：海涛法师 曲：海涛法师 百慕三石歌手：何禹萱所属专辑：[梦 莲花缘] \n  心中没有恨是最美的心 心中充满爱才是最美丽的心 美丽的心最美的心 &#xfffd;&#xfffd;嘛呢叭弥&#xfffd;&#xfffd; &#xfffd;&#xfffd;嘛呢叭弥&#xfffd;&#xfffd; 美丽的心清净的心 充满关怀你将会得到爱 美丽的心最美的心 &#xfffd;&#xfffd;嘛呢叭弥&#xfffd;&#xfffd; &#xfffd;&#xfffd;嘛呢叭弥&#xfffd;&#xfffd; 心中没有恨是最美的心 心中充满爱才是最美丽的心 美丽的心最美的心 &#xfffd;&#xfffd;嘛呢叭弥&#xfffd;&#xfffd; &#xfffd;&#xfffd;嘛呢叭弥&#xfffd;&#xfffd; 美丽的心清净的心 充满关怀你将会得到爱 美丽的心最美的心 &#xfffd;&#xfffd;嘛呢叭弥&#xfffd;&#xfffd; &#xfffd;&#xfffd;嘛呢叭弥&#xfffd;&#xfffd;\n  \n",
+                "name": "用爱感动你的心",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120629/20120629104951_.mp3"
+            },
+            {
+                "content": " \n  \n  灯舞-何禹萱词曲：百慕三石歌手：何禹萱所属专辑：[梦 莲花缘] \n  夜幕降临四周一片宁静这一时刻谁来扮演光明 灯火透明那是谁的幻影有个声音慢慢靠近  \n  &#xfffd;&#xfffd; 室哩哆 室哩哆 军吒利 萨缚诃 &#xfffd;&#xfffd; 室哩哆 室哩哆 军吒利 萨缚诃 大风吹过吹走了沙漠留下灯火照亮你我 谁的歌声唱进了心窝跳起灯舞不会寂寞 大风吹过吹走了沙漠留下灯火照亮你我 谁的歌声唱进了心窝跳起灯舞不会寂寞  \n  夜幕降临四周一片宁静这一时刻谁来扮演光明 灯火透明那是谁的幻影有个声音慢慢靠近  \n  &#xfffd;&#xfffd; 室哩哆 室哩哆 军吒利 萨缚诃 &#xfffd;&#xfffd; 室哩哆 室哩哆 军吒利 萨缚诃 大风吹过吹走了沙漠留下灯火照亮你我 谁的歌声唱进了心窝跳起灯舞不会寂寞\n  \n",
+                "name": "灯舞",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120629/20120629105051_.mp3"
+            },
+            {
+                "content": " \n  \n  舍下吧-何禹萱词曲：昌盛法师歌手：何禹萱所属专辑：[梦 莲花缘] \n  天上的行云啊一生都没有家 行路匆匆追赶着晚霞 修行的人们啊都把苦难磨 得到真的同时意味着要舍下 舍下吧舍下吧 舍下你对亲人对故乡的牵挂  \n  天上的行云啊一生都没有家 行路匆匆追赶着晚霞 修行的人们啊都把苦难磨 得到真的同时意味着要舍下 舍下吧舍下吧 舍下你对名利对迷茫的执着\n  \n",
+                "name": "舍下吧 舍下",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120629/20120629105126_.mp3"
+            }
+        ],
+        "songer": "何禹萱"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj/201211/W020121128030104843346.jpg",
+        "description": "",
+        "name": "合作草原施食蒙山",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "合作草原施食蒙山1",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127012031_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "合作草原施食蒙山2",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127012520_.mp3"
+            }
+        ],
+        "songer": "传喜法师"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj/201211/W020121128030395318402.jpg",
+        "description": "",
+        "name": "甘南慈云寺蒙山法会",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "甘南慈云寺蒙山法会2",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127011641_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "甘南慈云寺蒙山法会1",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127011258_.mp3"
+            }
+        ],
+        "songer": "传喜法师"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj/201211/W020121128030645627302.jpg",
+        "description": "",
+        "name": "慈云寺开示",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "慈云寺开示",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127010941_.mp3"
+            }
+        ],
+        "songer": "传喜法师"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj/201211/W020121128030870460700.jpg",
+        "description": "",
+        "name": "西安乾县化度寺蒙山施食法会",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "西安乾县化度寺蒙山施食...",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127010049_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "西安乾县化度寺蒙山施食...",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127010511_.mp3"
+            }
+        ],
+        "songer": "传喜法师"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj/201211/W020121128031106259653.jpg",
+        "description": "",
+        "name": "黄岩蒙山法会",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "黄岩蒙山法会",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127120136_.mp3"
+            }
+        ],
+        "songer": "传喜法师"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj/201211/W020121128031320462682.jpg",
+        "description": "",
+        "name": "无锡横山寺开示",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "无锡横山寺开示1",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127114954_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "无锡横山寺开示2",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127115432_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "无锡横山寺开示3",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127115757_.mp3"
+            }
+        ],
+        "songer": "传喜法师"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj/201211/W020121128031867344585.jpg",
+        "description": "",
+        "name": "慈悲甘露施食蒙山超荐法会",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "慈悲甘露施食蒙山超荐法会3",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127114612_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "慈悲甘露施食蒙山超荐法会2",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127114227_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "慈悲甘露施食蒙山超荐法会1",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127113916_.mp3"
+            }
+        ],
+        "songer": "传喜法师"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj/201211/W020121128032155786108.jpg",
+        "description": "",
+        "name": "观音菩萨成道日蒙山施食超荐法会",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "观音菩萨成道日蒙山施食...",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127113627_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "观音菩萨成道日蒙山施食...",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127113337_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "观音菩萨成道日蒙山施食...",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127112645_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "观音菩萨成道日蒙山施食...",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127112645_.mp3"
+            }
+        ],
+        "songer": "传喜法师"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj/201211/W020121128032445939286.jpg",
+        "description": "",
+        "name": "天童寺为夏令营学员开示",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "天童寺为夏令营学员开示3",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127112255_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "天童寺为夏令营学员开示2",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127112007_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "天童寺为夏令营学员开示1",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127111720_.mp3"
+            }
+        ],
+        "songer": "传喜法师"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj/201211/W020121128032668591139.jpg",
+        "description": "",
+        "name": "内蒙古朝圣行",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "内蒙古朝圣行6",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127014204_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "内蒙古朝圣行5",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127014001_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "内蒙古朝圣行4",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127013621_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "内蒙古朝圣行3",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127013330_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "内蒙古朝圣行2",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127013020_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "内蒙古朝圣行1",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127012711_.mp3"
+            }
+        ],
+        "songer": "传喜法师"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj/201211/W020121128033323595266.jpg",
+        "description": "",
+        "name": "蒙山施食超荐法会",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "蒙山施食超荐法会9",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127111347_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "蒙山施食超荐法会8",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127110955_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "蒙山施食超荐法会7",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127110629_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "蒙山施食超荐法会6",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127110154_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "蒙山施食超荐法会5",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127105238_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "蒙山施食超荐法会4",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127104845_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "蒙山施食超荐法会3",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127104328_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "蒙山施食超荐法会2",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127103823_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "蒙山施食超荐法会1",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127103524_.mp3"
+            }
+        ],
+        "songer": "传喜法师"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj/201211/W020121128033531876191.jpg",
+        "description": "",
+        "name": "太平庵开示",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "太平庵开示1",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127102822_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "太平庵开示2",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127103110_.mp3"
+            }
+        ],
+        "songer": "传喜法师"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj/201211/W020121128033755311318.jpg",
+        "description": "",
+        "name": "张家港莲池膳坊开示",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "张家港莲池膳坊开示4",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127102438_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "张家港莲池膳坊开示3",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127102157_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "张家港莲池膳坊开示2",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127101926_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "张家港莲池膳坊开示1",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121127/20121127101522_.mp3"
+            }
+        ],
+        "songer": "传喜法师"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj/201211/W020121113358474217596.jpg",
+        "description": "  \n 专辑 作曲：曾映标 演唱：曾映标 配乐：吴莹莹 \n 普愿：见闻赞谤同植净土信根， 演唱传持共预莲池海会。\n",
+        "name": "安养曲",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "A06阿弥陀佛",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121113/20121113051933_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "A05阿弥陀佛",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121113/20121113051754_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "A04阿弥陀佛・合唱版",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121113/20121113051524_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "A03南无阿弥陀佛",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121113/20121113051156_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "A02南无阿弥陀佛",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121113/20121113051017_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "A01南无阿弥陀佛",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121113/20121113050629_.mp3"
+            }
+        ],
+        "songer": "曾映标"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj/201211/W020121113302785787028.jpg",
+        "description": "",
+        "name": "度尽众生方是佛",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "海会莲池旁",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121113/20121113032425_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "修行者",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121113/20121113032906_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "一笑了之心无敌",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121113/20121113033504_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "浪淘沙――度尽众生方是佛",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121113/20121113033658_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "&#xfffd;_摩祖&#xfffd;&#xfffd;之歌",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121113/20121113033847_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "常相思",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121113/20121113034848_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "我爱你的心不变",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121113/20121113035519_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "佛赞偈",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121114/20121114025557_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "开经偈",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20121114/20121114025405_.mp3"
+            }
+        ],
+        "songer": "释果正"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj/201203/W020120821288834681350.jpg",
+        "description": " 僧在雨后斑驳的檐前石柱烛台上燃一盏青灯，照亮黑暗之围泛起圆满的五彩光晕，清瘦的影子在风中摇曳。叠嶂屋檐间的青石板上，二三僧客坐看云起，借着那柔和静谧之光，你拂过云袂，徐徐为众人吟一曲惊梦，青灯就此掀开梦的一角...\n",
+        "name": "安心是福",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "A01 大慈大悲观世音",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120821/20120821025812_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "A02 阿弥陀佛在心间",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120821/20120821014431_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "A03 观音菩萨偈",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120821/20120821014615_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "A04 清净法身佛",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120821/20120821014712_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "A05 楞严一笑",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120821/20120821032032_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "A06 一家人",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120821/20120821015258_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "A07 生生世世都在菩提中",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120821/20120821015351_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "A08 观音菩萨如秋月",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120821/20120821031112_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "A09 忏悔文",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120821/20120821015543_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "A10 大乘天",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120821/20120821015620_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "B01 普门颂",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120821/20120821030123_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "B02 证道歌",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120821/20120821020718_.mp3"
+            }
+        ],
+        "songer": "释则旭"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj/201201/W020120113134010154791.jpg",
+        "description": "  \n 惊蛰时节，梅雨如星月般坠入山涧。清泉蜿蜒，流过山腰那宁静的庙宇。晨钟暮鼓，述说山里讲不完的故事。菩提树下，僧伽颂起无上的陀罗尼。 \n “人间至善”，是对菩萨慈悲喜舍的敬礼，是向佛陀无限光华的赞叹。《人间至善》，是一张收录法会赞，偈，八十八佛名忏，花鼓等的合辑。由上戒下霖法师领众恭诵，愿现场自然，淳朴，空灵的唱赞触映你我震慑心田。\n",
+        "name": "《人间至善》",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "弥陀赞.MP3",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120113/20120113011146_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "弥陀偈.MP3",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120113/20120113011122_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "炉香赞.MP3",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120113/20120113011100_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "伽蓝赞.MP3",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120113/20120113010910_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "宝鼎赞",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120113/20120113010842_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "《八十八佛忏悔文》广化...",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120113/20120113011214_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "早殿",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120113/20120113011213_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "戒霖花鼓.MP3",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120113/20120113011032_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "戒定真香",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120113/20120113010943_120.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "跑西方",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120113/20120113011212_120.mp3"
+            }
+        ],
+        "songer": "佚名"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj/201112/W020111223407969219356.jpg",
+        "description": "  \n \n   1 释迦牟尼佛心咒 2 南无本师释迦牟尼佛 3 南无当来下生弥勒尊佛 4 南无大智文殊师利菩萨 5 南无大悲观世音菩萨 6 南无大行普贤菩萨 7 南无大愿地藏王菩萨 8 南无消灾延寿药师佛 9 宝箧赞 10 一切如来心秘密宝箧印陀罗尼 \n  \n \n   《祈福-2012》专辑是佛教在线为2012年推出的《佛门祈愿 吉祥平安》限量版珍邮收藏册所特制的金碟，内含10首精选佛曲，与珍邮册丰富的内容相得益彰。如果您喜欢，请迎请珍邮册。 详情页面：http://qf.fjnet.com\n  \n \n   迎请电话：010-51660795；010-51656965 网络迎请：http://shop62821781.taobao.com/\n  \n \n   咨询Q Q：1184768244 咨询邮箱：qf@fjnet.com\n \n",
+        "name": "《祈福-2012》",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "释迦牟尼佛心咒",
+                "mp3url": "http://music1.fjnet.com/attachment/wma/20111226/1.wma"
+            },
+            {
+                "content": " \n",
+                "name": "南无本师释迦牟尼佛",
+                "mp3url": "http://music1.fjnet.com/attachment/wma/20111226/2.wma"
+            },
+            {
+                "content": " \n",
+                "name": "南无当来下生弥勒尊佛",
+                "mp3url": "http://music1.fjnet.com/attachment/wma/20111226/3.wma"
+            },
+            {
+                "content": " \n",
+                "name": "南无大智文殊师利菩萨",
+                "mp3url": "http://music1.fjnet.com/attachment/wma/20111226/4.wma"
+            },
+            {
+                "content": " \n",
+                "name": "南无大悲观世音菩萨",
+                "mp3url": "http://music1.fjnet.com/attachment/wma/20111226/5.wma"
+            },
+            {
+                "content": " \n",
+                "name": "南无大行普贤菩萨",
+                "mp3url": "http://music1.fjnet.com/attachment/wma/20111226/6.wma"
+            },
+            {
+                "content": " \n",
+                "name": "南无大愿地藏王菩萨",
+                "mp3url": "http://music1.fjnet.com/attachment/wma/20111226/7.wma"
+            },
+            {
+                "content": " \n",
+                "name": "南无消灾延寿药师佛",
+                "mp3url": "http://music1.fjnet.com/attachment/wma/20111226/8.wma"
+            },
+            {
+                "content": " \n",
+                "name": "宝箧赞",
+                "mp3url": "http://music1.fjnet.com/attachment/wma/20111226/9.wma"
+            },
+            {
+                "content": " \n",
+                "name": "一切如来心秘密宝箧印陀罗尼",
+                "mp3url": "http://music1.fjnet.com/attachment/wma/20111226/10.wma"
+            }
+        ],
+        "songer": "佚名"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj./jxcy/201101/W020110121486978148678.jpg",
+        "description": "  1 千年一叹-杨竹青 2 云水逸-杨竹青 3 观音菩萨在心中-黑鸭子 4 阿弥陀佛保佑你-谢&#xfffd;柯&#xfffd; 5 南无阿弥陀佛圣号-李娜 6 心月-付笛声、任静 7 香吧拉-王逍 8 心经-可可 9 天心月圆-张金挺 10 爱满人间-黑鸭子 11 六字大明咒-莫日根 12 如此美丽-曹馨竹 13 药师佛-可可 14 千手千眼-李美丽\n  ・一花一世界，一叶一菩提，体味音乐里无量无边的开阔天地，感悟人生中至高无上的菩提妙智！ ・优美的旋律，婉转动听，沁人心脾，让我们忘记了自己，突破时空的界限，完全陶醉在一片安详柔和的音声海中。 ・声声的妙音，充满磁性，充满慈悲，唤起了无尽的暇思，犹如阵阵的清风，在我们平静的心湖里吹拂起丝丝的涟漪，使我们感受到本性最真实的喜悦，仿佛回到久远的往昔。 ・静静地聆听吧，那是妙音天女在歌唱，那是大梵天最动人的音声！\n  《祈福-2011》专辑是佛教在线为2011年新春专门推出的《新春祈愿 福慧增上》限量珍邮收藏册里面的特制金蝶。内含14首精选 除此之外，不在市面发行。如果您喜欢这里的曲子的话，请迎请珍邮册。 详情页面：http://qf.fjnet.com\n  迎请电话：010-51660795；010-51656965 网络迎请：http://shop62821781.taobao.com/\n  咨询Q Q：1184768244 咨询邮箱：qf@fjnet.com\n",
+        "name": "《祈福-2011》",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "千年一叹",
+                "mp3url": "http://music.fjnet.com/qifu/01.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "心月",
+                "mp3url": "http://music.fjnet.com/qifu/06.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "千手千眼",
+                "mp3url": "http://music.fjnet.com/qifu/14.mp3"
+            }
+        ],
+        "songer": "杨竹青、黑鸭子、谢&#xfffd;柯&#xfffd;"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj./jxcy/201012/W020101231692110626246.jpg",
+        "description": " \n",
+        "name": "莲花开放的声音",
+        "listSong": [
+            {
+                "content": " \n \n  \n  \n",
+                "name": "寻找生命中的贵人",
+                "mp3url": "http://music.fjnet.com/lhkfdsy/01.mp3"
+            },
+            {
+                "content": " \n  \n",
+                "name": "感悟人生",
+                "mp3url": "http://music.fjnet.com/lhkfdsy/02.mp3"
+            },
+            {
+                "content": " \n \n  \n  \n",
+                "name": "认识烦恼是修行的开始",
+                "mp3url": "http://music.fjnet.com/lhkfdsy/03.mp3"
+            },
+            {
+                "content": " \n  \n",
+                "name": "内心深处、苦乐源头",
+                "mp3url": "http://music.fjnet.com/lhkfdsy/04.mp3"
+            },
+            {
+                "content": " \n \n  \n  \n",
+                "name": "分享",
+                "mp3url": "http://music.fjnet.com/lhkfdsy/05.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "寻找生命中的贵人 伴奏",
+                "mp3url": "http://music.fjnet.com/lhkfdsy/06.mp3"
+            },
+            {
+                "content": " \n  \n",
+                "name": "感悟人生 伴奏",
+                "mp3url": "http://music.fjnet.com/lhkfdsy/07.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "认识烦恼是修行的开始 伴奏",
+                "mp3url": "http://music.fjnet.com/lhkfdsy/08.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "内心深处、苦乐源头 伴奏",
+                "mp3url": "http://music.fjnet.com/lhkfdsy/09.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "分享 伴奏",
+                "mp3url": "http://music.fjnet.com/lhkfdsy/10.mp3"
+            }
+        ],
+        "songer": "敬善媛 关牧村 亚东"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj./jxcy/201001/W020100705472098827327.jpg",
+        "description": "",
+        "name": "如来云水月",
+        "listSong": [
+            {
+                "content": " \n 南无惹纳达拉雅雅 南无阿里雅佳纳 萨嘎拉贝勒佳纳 尤哈拉佳雅 达他嘎达雅 阿拉哈帝 桑呀桑布达雅 纳摩萨噜哇 达他嘎提呗 阿拉哈达呗 桑呀桑布提呗 南无阿里雅阿哇噜格帝 秀哇拉雅 布地萨噜哇雅 玛哈萨噜哇雅 玛哈嘎噜尼加雅 达地雅他嗡 达拉达拉 提力提力 杜噜杜噜 易笛威易笛加列加列 不啦加列不啦加列 固苏美固苏玛哇垒 易利密利积地作哈啦 玛巴纳雅梭哈  \n",
+                "name": "大悲咒--敬善媛(杨小琳)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20100129/20100129115227_114.mp3"
+            },
+            {
+                "content": " \n \n  南无薄伽伐帝 &#xfffd;@杀社 窭噜薜琉璃 \n  跋喇婆 喝&#xfffd;&#xfffd;&#xfffd;^也 怛他揭多也 阿&#xfffd;&#xfffd;喝帝 \n  三藐三勃陀耶 怛侄他 \n  \n \n  &#xfffd;&#xfffd; &#xfffd;@刹逝 &#xfffd;@刹逝 &#xfffd;@刹社 三没揭帝莎诃\n  \n",
+                "name": "药师咒--敬善媛（杨小琳）",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20100129/20100129122456_123.mp3"
+            },
+            {
+                "content": " \n 南无 飒哆喃 三貌三勃陀 俱胝南 怛侄他&#xfffd;&#xfffd; 折隶 主隶 准提 娑婆诃 \n",
+                "name": "准提神咒-敬善媛(杨小琳)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20100129/20100129122252_123.mp3"
+            },
+            {
+                "content": " \n  \n  辩才天女  \n   神话中印度大神梵天之妻（一说是女儿），从他的左手大拇指上出生。又译娑罗室伐底。  \n   《梨俱吠陀》中，她是一条河及河川之神的名字，能除人之秽，给人财富、后代、勇气。《梵书》和史诗《摩诃婆罗多》中，她变为语言女神。后传说她是语言、知识女神，是梵语及天城体字母的创造者，掌管诗歌、音乐，是艺术和科学的保护者，因其多智善辩，成为智慧与雄辩女神。  \n   有时也作毗湿奴之妻。辩才天女文静慈善，皮肤白皙，雪肌玉颜、青丝成髻，天衣绸裙，环钏璎珞诸饰庄严。貌如芳龄十二童女，生有四臂双足交错，手持琵琶，作弹奏状，端坐于五彩缤纷的莲花中央。 分执琴、经书、念珠和莲花，象征艺术、智慧与写作及虔诚。大乘佛教吸收她为菩萨，称大辩才天女或妙音佛母，是文殊的妻子。《辩才天》是文殊菩萨的真言。 \n  \n",
+                "name": "辩才天女心咒-敬善媛（杨...",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20100129/20100129115740_123.mp3"
+            },
+            {
+                "content": " \n \n  观自在菩萨．行深般若波罗蜜多时．照见五蕴皆空．度一切苦厄．舍利子．色不异空．空不异色．色即是空．空即是色．受想行识．亦复如是．舍利子．是诸法空相．不生不灭．不垢不净．不增不减．是故空中无色．无受想行识．无眼耳鼻舌身意．无色声香味触法．无眼界．乃至无意识界．无无明．亦无无明尽．乃至无老死．亦无老死尽．无苦集灭道．无智亦无得．以无所得故．菩提萨&#xfffd;剩&#xfffd;依般若波罗蜜多故．心无挂碍．无挂碍故．无有恐怖．远离颠倒梦想．究竟涅盘．三世诸佛．依般若波罗蜜多故．得阿耨多罗三藐三菩提. 故知般若波罗蜜多．是大神咒．是大明咒．是无上咒．是无等等咒．能除一切苦．真实不虚．故说般若波罗蜜多咒．即说咒曰．揭谛揭谛．波罗揭谛．波罗僧揭谛．菩提萨婆诃．\n  \n",
+                "name": "心经--敬善媛(杨小琳)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20100129/20100129120344_114.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "祈请上师久住文-杨小琳(...",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20100129/20100129122535_123.mp3"
+            },
+            {
+                "content": " \n \n  \n  \n",
+                "name": "飞天吉祥(赞佛偈)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20100129/20100129124317_123.mp3"
+            },
+            {
+                "content": " \n \n  \n  降生时：\n  \n 雷声四起 天降花瓣雨 \n 潮水涌起 水边生长出 \n 千万朵红白色鲜花 \n 彩虹照耀天人吟唱 \n  \n 空行母自白： \n 化身女儿瑜伽吾 \n 无漏精食已享用 \n 有漏之食虽已忘 \n 亦如窍诀般服用 \n 吞咽轮回全吞咽 \n 饱满智慧觉性足 阿耶！  \n 天地一片祥和万物充满生机 \n 嗡贝母优个了马哈色个加拉舌德轰轰 \n 海生天女喜悦妙音海，善演至尊空行诚祈祷。 \n 身寿不变坚固金刚性，弘化事业周遍诸方隅。 \n",
+                "name": "益西措加空行母心咒-杨小...",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20100129/20100129122419_123.mp3"
+            }
+        ],
+        "songer": "敬善媛（杨小琳）"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj./fbzj/200903/W020100705472295385233.jpg",
+        "description": "",
+        "name": "活在感恩的世界",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "有一天梦会醒",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090522/20090522092857_115.wma"
+            },
+            {
+                "content": " \n",
+                "name": "心愿",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090522/20090522092737_115.wma"
+            },
+            {
+                "content": " \n",
+                "name": "西方回向偈",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090522/20090522092546_115.wma"
+            },
+            {
+                "content": " \n",
+                "name": "世界是个大家园",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090522/20090522092444_115.wma"
+            },
+            {
+                "content": " \n",
+                "name": "结缘歌",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090522/20090522092414_115.wma"
+            },
+            {
+                "content": " \n",
+                "name": "火宅的故事",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090522/20090522092318_115.wma"
+            },
+            {
+                "content": " \n",
+                "name": "活在感恩的世界",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090522/20090522092041_115.wma"
+            },
+            {
+                "content": " \n",
+                "name": "多念一声佛",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090522/20090522092003_115.wma"
+            },
+            {
+                "content": " \n",
+                "name": "慈悲",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090522/20090522091644_115.wma"
+            },
+            {
+                "content": " \n",
+                "name": "阿弥陀佛来接引",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090522/20090522091600_115.wma"
+            }
+        ],
+        "songer": "柯佩磊"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj./fbzj/200906/W020090613650883756958.jpg",
+        "description": "",
+        "name": "爱满人间",
+        "listSong": [
+            {
+                "content": " \n \n  轻轻地 伸出你的手奉献你的一份爱和谐的世界需要你的爱让爱一生永相伴轻轻地伸出你的手奉献你的一份爱和谐的世界需要你关怀让生命充满阳光生命中需要关爱世界才能变得更温暖生命中需要理解世界才变得更和平因为有爱 因为有爱欢乐与我们的生命相伴因为有爱 因为有爱和谐的世界会更加美好因为有爱每颗心都紧紧相连让世界不再有悲伤分离因为有爱每颗心都紧紧相连让博爱之光将你我照亮啊因为有爱 啊因为有爱让世界更加美好啊因为有爱 啊因为有爱让真心温暖你我轻轻地 伸出你的手奉献你的一份爱和谐的世界需要你关怀让生命充满阳光生命中需要关爱世界才能变得更温暖生命中需要理解世界才变得更和平因为有爱 因为有爱欢乐与我们的生命相伴因为有爱 因为有爱和谐的世界会更加美好因为有爱每颗心都紧紧相连让世界不再有悲伤分离因为有爱每颗心都紧紧相连让博爱之光将你我照亮啊因为有爱 啊因为有爱让世界更加美好啊因为有爱 啊因为有爱让真心温暖你我\n  \n",
+                "name": "爱满人间",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090615/20090615111733_114.wma"
+            },
+            {
+                "content": " \n \n  我愿意把爱全部给你把幸福带给你我愿意把爱全部给你把欢乐带给你我愿意把爱全部给你把慈悲带给你我愿意把爱全部给你把信心带给你我愿意把爱全部给你巴西忘带给你我愿意把爱全部给你把光阴带给你奉献你的一份爱世界将会更温暖奉献你的一份爱世界将会更和平奉献所有的爱心世界将会更加美好奉献所有的爱心世界将会更精彩\n  \n",
+                "name": "奉献一份爱",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090613/20090613174431_114.wma"
+            },
+            {
+                "content": " \n \n  我们把仁爱种在心间荣怀终身的苦难我们把智慧之灯点燃照亮世界的黑暗我们撒播关爱的种子温暖受伤的心灵我们把希望之光点燃让世界不再有悲哀我们把慈悲种在心间让世界不再有伤害我们照亮茫茫的旅途让欢乐代替所有伤痛我们种下菩提心愿解救众生的苦难我们撒下一滴甘露即使如苦海也要把那苦海转变我们种下菩提心愿让众生欢心用感恩的心去善待人生我们遵循佛陀的教诲即使如苦海也要把那苦海转变我们种下菩提心愿用感恩的心用喜悦的心去善待人生\n  \n",
+                "name": "心海星愿",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090613/20090613174647_114.mp3"
+            },
+            {
+                "content": " \n \n  轻轻地微风吹落了时光的尘埃轻轻地细雨轻吟着千载的诗歌轻轻地落叶倾诉了岁月的往事轻轻地飞雪点缀着历史的山河爱无边晴空万里心清如水爱无边月光皎洁梦静如云爱无边用慈悲心渠滋润每颗受伤的心爱无边爱无边 让爱心传递温暖世界的每个角落但愿每颗心都紧紧相依抵挡生命中的风雨让心中的话和真情的泪在生命中的每一刻流动\n  \n",
+                "name": "大爱无边",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090613/20090613175015_114.wma"
+            },
+            {
+                "content": " \n \n  一心学佛心静常欢乐人生苦短不必太计较阿弥陀佛常在心中念一心学佛心清常自在一心学佛心静常欢乐人生苦短不必太计较阿弥陀佛常在心中念清净自在常欢乐留一份真心的笑容快乐就在你身边留一份自在的心情健康就在你身边留一份慈悲的种子幸福就在你身边留一份善美的信仰清净自在常欢乐\n  \n",
+                "name": "清静自在",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090613/20090613174452_114.wma"
+            }
+        ],
+        "songer": "黑鸭子组合"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj./jxcy/200906/W020090612355459535386.jpg",
+        "description": "妙音天女般自在喜悦的歌声 多位高僧活佛的梵呗 不拘一格的世纪音乐元素 启迪性的全新听觉享受 丰润的心灵滋养  一张融合了古老东方禅修思想与现代流行音乐元素的新世纪专辑  作为国内音乐界最为活跃的音乐公司，太合麦田除推出李宇春、朴树、满文军等流行音乐专辑之外，也曾推出梅葆玖、《爱的香格里拉》等发烧音乐专辑，触角伸至乐坛各个领域。  2009年初，太合麦田首先推出了“净化心系列功能唱片”之《人间》，这也是该系列专辑中的首张作品，在全球经济低迷的大环境下，越来越多的文化产品反而更广泛的被大众所接受，这张《人间》专辑正是籍着温暖、喜悦、祝福和坚信的态度，以最具接受度的流行音乐形式，用最为动听、感人的歌声带给每一个听者发自内心的感动与宁静。同时，这也是国内首张融合了现代先锋音乐和东方禅修思想的新世纪音乐（New Age）专辑。  《人间》的音乐灵感来源于古老的智慧经典《金刚经》。它唱出了人们对光明、爱、幸福、力量、圆满等一切美好的追求与祈愿；用音乐为红尘中的我们展现了一个平等、和谐、清净、安详的空间，引导我们坚韧快乐的直面生命中的每一分钟。  作为这张专辑的核心人物，新锐音乐才女小慈参与了专辑中歌曲的谱曲并与多位高僧一起用中文、梵文、藏文等多种语言合作演绎了经文及祈福咒语。  同时为了保护和发展原生态音乐的美感，小慈多年来游历于尼泊尔、印度、东南亚等各地，大量收集当地人声、乐器、法器等原始采样，并在制作专辑时把这些元素与流行音乐、电子乐、世界音乐、声音实验等多种音乐手法融合在一起，营造了一份神秘的超现实主义浪漫色彩，给人带来全新的听觉启发。《人间》的十一首作品每一首都充满了诚意和惊喜，值得反复聆听。",
+        "name": "人间",
+        "listSong": [
+            {
+                "content": " \n \n  \n  \n \n  \n  生生世世永不离\n  \n \n  词曲：小慈 演唱：小慈 \n  \n \n  智慧慈悲的怙主 您是我的天多罗那他尊化现\n  \n \n  扎西江参仁波切为弘扬诸佛正法\n  \n \n  您远走他方多年无私的奉献\n  \n \n  尽全力造福人间恩师啊 恩师啊 （藏文）\n  \n \n  衷心祈求您长久驻世啊 \n  \n \n  生生世世永永远远再也不愿离开您恩师啊 \n  \n \n  恩师啊 （藏文）您可听见我遥远的呼喊 \n  \n \n  纵然相隔千山万水我心就在您身边弟子皈依那一天 \n  \n \n  许下一个心愿佛法无边誓愿学不负您恩情一片\n  \n \n  生生世世 永远永远 我心追随您不变\n  \n \n  \n  \n \n  \n  \n",
+                "name": "生生世世永不离",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612092641_118.mp3"
+            },
+            {
+                "content": " \n \n  \n  \n 报亲恩 \n 词：摘自《地藏经》曲：小慈  \n 演唱：乔美仁波切&amp;小慈@团结合唱团  \n  \n 稽首本然静心地 无尽佛藏大慈尊 \n 南方世界涌香云 香雨花云及华雨  \n 宝雨宝云无数种 为祥为瑞遍庄严  \n 天人问佛是何因 佛言地藏菩萨至  \n 三世如来同赞叹 十方菩萨共皈依  \n 我今宿植善因缘 赞扬地藏真功德  \n &#xfffd;&#xfffd;钵罗末邻陀宁娑婆诃（梵文） \n 慈因积善誓救众生 手中金锡震开地狱之门掌上明珠  \n 光慑大千世界 智慧音里 吉祥云中  \n 为阎浮提苦众生 作大证明功德主大悲大愿  \n 大圣大慈 地藏王菩萨 摩诃萨  \n &#xfffd;&#xfffd;钵罗末邻陀宁娑婆诃（梵文）  \n  \n  \n",
+                "name": "报亲恩",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090612/20090612092742_118.wma"
+            },
+            {
+                "content": " \n \n  \n  \n  \n 慧剑斩烦恼 \n 词：印光大师 曲：小慈 演唱：小慈  \n  \n 文殊菩萨德难量 久成龙种上法王 因怜众生迷自性  \n 特辅释迦振玄纲 为七佛师体难测  \n 作菩萨母用无方 常住寂光应众感 万川一月影咸彰 \n 文殊妙吉祥 智慧非佛莫量嗡啊惹巴匝那德（梵文） \n 左持青莲得映彰 右持慧剑斩烦恼愿随菩萨勤修学  \n 究竟证菩提真常文殊妙吉祥  \n 智慧非佛莫量嗡啊惹巴匝那得（梵文） \n  \n  \n  \n",
+                "name": "慧剑斩烦恼",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612092832_118.mp3"
+            },
+            {
+                "content": " \n \n  \n  \n  \n  \n 极乐世界\n  曲：小慈 演唱：乔美仁波切&amp;小慈@团结合唱团  \n  \n 南无阿弥陀佛 南无阿弥多婆夜 \n 哆他伽多夜 哆地夜他 阿弥利都婆毗  \n 阿弥利哆 悉耽婆毗 阿弥&#xfffd;o哆 毗迦兰帝 \n 阿弥&#xfffd;o哆 毗迦兰多 伽弥腻 伽伽那  \n 枳多迦利 娑婆诃 南无阿弥陀佛  \n  \n  \n  \n",
+                "name": "极乐世界",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612093025_118.mp3"
+            },
+            {
+                "content": " \n \n  \n  \n 心经 \n 词：《金刚般若波罗密心经》 曲：小慈 演唱：小慈  \n  \n 观自在菩萨 行深般若波罗密多时照见五蕴皆空  \n 度一切苦厄 舍利子色不异空 空不异色 色即是空  \n 空即是色受想行识 亦复如是 舍利子 是诸法空相 \n 不生不灭 不垢不净 不增不减是故空中无色  \n 无受想行识无眼耳鼻舌身意 无色声香味触法无眼界  \n 乃至无意识界 无无明 亦无无明尽乃至无老死 \n 亦无老死尽无苦集灭道 无智亦无得 以无所得故 \n 菩提萨陲 依般若波罗密多故心无挂碍 无挂碍故 \n 无有恐怖远离颠倒梦想 究竟涅盘 三世诸佛  \n 依般若波罗密多故得阿耨多罗三藐三菩提故知般若波罗密多是大神咒 \n 是大明咒 是无上咒是无等等咒 能除一切苦  \n 真实不虚故说般若波罗密多咒即说咒曰 \n 揭谛揭谛 波罗揭谛波罗僧揭谛 菩提娑婆诃  \n  \n  \n",
+                "name": "心经",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612093149_118.mp3"
+            },
+            {
+                "content": " \n \n  \n  \n \n  \n  \n 事业成就祈祷文 \n 词：扎西多杰 曲：小慈 演唱：小慈  \n  \n 邬金刹土世间之妙现 无畏勇士涌聚虚空洲 \n 不变大乐顶轮胜宫殿 礼敬三世总持妙明您 \n 惟愿五身事业广大兴 一切魔众殄伏悉无余  \n 法帜广扬清净如金曼  \n 四众弟子皆登普贤地九乘法藏光显遍三有  \n 狮子力具无垢正法宏 \n 上师加持蜜露蕊芯中 醉蜂我等未觉永不离  \n  \n \n   \n",
+                "name": "莲花生大师事业成就祈祷文",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090612/20090612093355_118.wma"
+            },
+            {
+                "content": " \n \n  \n  \n 爱的呼唤\n  词：摘自《大藏经》 曲: 小慈 演唱：小慈  \n  \n 南无诸佛正法贤圣三宝尊 \n 从今直至菩提永皈依我以所修施等诸资粮  \n 为利有情故愿大觉成 以我虔诚供养最胜无欺三宝尊  \n 普贤供云遍布虚空所得善根力祈愿六道一切有情及众 \n 生 如愿无碍圆满往生西方极乐土  \n  \n  \n  \n",
+                "name": "爱的呼唤",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090612/20090612093703_118.wma"
+            },
+            {
+                "content": " \n \n  \n  \n \n  \n  \n \n  \n  \n 沧海桑田 词：摘自《大藏经》曲：乔美仁波切 演唱：乔美仁波切  \n  \n 藏文大意：观音菩萨妙难酬  \n 清净庄严累劫修三十二应遍尘刹  \n 百千万劫化阎浮瓶中甘露时常洒 \n 手内杨柳不计秋千处祈求千处现  \n 苦海常作度人舟南无普陀琉璃世界大慈大悲观世音菩萨  \n  \n  \n \n   \n",
+                "name": "沧海桑田",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090612/20090612094142_118.wma"
+            },
+            {
+                "content": " \n \n  \n  \n 时光隧道 \n 词曲：小慈 演唱：小慈  \n  \n 每个人小的时候 总是盼时间过的快一点 \n 有多少了不起的心愿 想去实现当我们长大以后 总是盼时间走的（再）慢一点 \n 有多少明天变成昨天 \n 唯一不变的是世界永远在变嗡班匝萨垛&#xfffd;耍ㄨ笪模&#xfffd;  \n  \n  \n  \n",
+                "name": "时光隧道",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090612/20090612094230_118.wma"
+            },
+            {
+                "content": " \n \n   \n   \n  莲花生大师的化身――第六世登培江木活佛亲颂金刚萨垛心咒，消除一切痛苦灾难心灵经过净化而呈现它本初的样子  \n   \n  忏悔  \n  词：金刚萨&#xfffd;市闹&#xfffd; 朗诵：江木仁波切  \n   \n  梵文大意：忏悔 \n  \n",
+                "name": "忏悔",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612094321_118.mp3"
+            },
+            {
+                "content": " \n \n   \n  莲花生大师的化身――第六世登培江木活佛亲颂绿度母心咒，保佑人生圆满吉祥祝福人间的你我他，一切美好的愿望都能得以实现  \n   \n  满愿 \n   \n  词：绿度母心咒 曲：江木仁波切 演唱：江木仁波切  \n   \n  梵文大意：圆满人间一切善愿 \n  \n",
+                "name": "满愿",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612094444_118.mp3"
+            }
+        ],
+        "songer": "小慈"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj./jxcy/200906/W020090618429162656280.jpg",
+        "description": " 《心灵菩提》专辑取自《药师佛心咒》中之心经。柔和清凉的声音中，听着听着常会感觉到心境好像处在充满清香的莲花大海之中，是那么的温柔，那么的清凉，那么的清明，心情马上就会平静下来。\n",
+        "name": "心灵菩提",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "水琉璃",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090618/20090618114305_114.wma"
+            },
+            {
+                "content": " \n",
+                "name": "静夜",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090618/20090618114555_114.wma"
+            },
+            {
+                "content": " \n 曲：萧蔓萱　编曲：洪信杰 \n 嗡 嘛哈室利曳 梭哈  \n",
+                "name": "天空（吉祥天女心咒）",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090618/20090618112435_114.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "佛陀圆舞曲",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090618/20090618114516_114.wma"
+            },
+            {
+                "content": " \n",
+                "name": "丰收年华",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090618/20090618114635_114.wma"
+            },
+            {
+                "content": " \n",
+                "name": "乐土",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090618/20090618114804_114.wma"
+            },
+            {
+                "content": " \n",
+                "name": "清静法身佛",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090618/20090618115218_114.wma"
+            },
+            {
+                "content": " \n",
+                "name": "秋铃-水玲珑vs黄思婷深情...",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090618/20090618114849_114.wma"
+            },
+            {
+                "content": " \n",
+                "name": "祈福",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090618/20090618115324_114.wma"
+            },
+            {
+                "content": " \n",
+                "name": "情缘(音乐版)",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090618/20090618130451_114.wma"
+            },
+            {
+                "content": " \n",
+                "name": "水琉璃(音乐版)",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090618/20090618115152_114.wma"
+            },
+            {
+                "content": " \n",
+                "name": "清静法身佛(音乐版)",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090618/20090618115243_114.wma"
+            }
+        ],
+        "songer": "水琉璃"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj./jcyc/200906/W020090616352576402217.jpg",
+        "description": " 这张“祈福专辑”是由百慕文化旗下艺人何禹萱演唱并参与策划构思的，其中的创作、编配及后期制作也由音乐人百慕三石全力完成，同时这也代表着秘密训练了二年的何禹萱首张专辑问市，不过据她本人透露，这张“祈福专辑”没有任何商业目的，完全是为了结识有缘人，并为遭遇不幸和不快乐的人祈福。\n",
+        "name": "梦 莲花缘",
+        "listSong": [
+            {
+                "content": " \n 观自在菩萨 行深般若波罗蜜多时照见五蕴皆空 度一切苦厄 \n 舍利子色不异空 空不异色色即是空 空即是色受想行识 亦复如是 \n 舍利子是诸法空相 不生不灭不垢不净 不增不减是故空中无色 无受想行识无眼耳鼻舌身意 无色声香味触法无眼界 乃至无意识界无无明 亦无无明尽乃至无老死 亦无老死尽无苦集灭道 无智亦无得 以无所得故 \n 菩提萨陲 依般若波罗蜜多故心无　碍 无　碍故 无有恐怖远离颠倒梦想 究竟涅盘 \n 三世诸佛 依般若波罗蜜多故得阿耨多罗三藐三菩提 \n 故知般若波罗蜜多是大神咒 是大明咒 是无上咒是无等等咒 能除一切苦 真实不虚 \n 故说般若波罗蜜多咒即说咒曰 揭谛揭谛 波罗揭谛波罗僧揭谛 菩提娑婆诃般若波罗密多心经 \n",
+                "name": "心经",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090616/20090616095721_114.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "梵音大悲咒",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090616/20090616131858_114.mp3"
+            },
+            {
+                "content": " \n \n  （莲师心咒）（嗡啊&#xfffd;&#xfffd; 班匝咕噜 巴玛色德&#xfffd;耍&#xfffd;\n  \n 梦里有朵莲花开在菩提下朵朵瓣儿清雅如玉洁白无暇微风吹过水面 亲亲吻着她水面上泛起一轮 故乡的月牙 \n （嗡啊&#xfffd;&#xfffd; 班匝咕噜 巴玛色德&#xfffd;耍&#xfffd; \n 心里有颗愿望种在菩提下前世今生只为等待它发芽那些善良的人啊 总会看到它所有的灾难困苦都将远离啊 \n （嗡啊&#xfffd;&#xfffd; 班匝咕噜 巴玛色德&#xfffd;耍&#xfffd; \n",
+                "name": "梦 莲花缘",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090616/20090616093547_114.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "心",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090616/20090616102457_114.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "舍下吧舍下",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090616/20090616102533_114.mp3"
+            }
+        ],
+        "songer": "何禹萱"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj./fbzj/200906/W020090612342057506937.jpg",
+        "description": "",
+        "name": "万物生",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "妈妈天那（藏文）",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612091736_114.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "万物生（梵文版）",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090609/20090609100936_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "神香（梵文）",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090609/20090609113133_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "锡林河边的老人（自语）",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612091819_114.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "陀罗尼（梵文）",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090609/20090609145449_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "拉古拉古（自语）",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612092606_114.mp3"
+            },
+            {
+                "content": " \n 作词：香蝶作曲：萨顶顶编曲：马力 \n 夏天的飞鸟飞到窗前又要飞走了衔着黄叶还有那朵花 \n 它想问他们啊要和我一起离开这里吗天上有云云也会开花 \n 黄叶说好吧如果那里很美啊沉默的夏花低头不说话 \n Na Ya NoYa No \n 大地继续暗哑忧思在她脸颊路过漂泊的人啊把足印留下 \n 夏天的飞鸟飞到窗前又要飞走了衔着黄叶还有那朵花 \n 它想问他们啊要和我一起离开这里吗天上有云啊 \n 黄叶向往秋霞飞鸟衔走它夏花落下陪伴流浪的水和沙 \n 黄叶向往秋霞飞鸟衔走它果实留下花儿变成水中沙 \n 黄叶问啊唔是花 \n",
+                "name": "飞鸟和花",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612092700_114.mp3"
+            },
+            {
+                "content": " \n \n  \n  \n 神香电影《喜马拉雅王子》主题歌 \n 林廊的人啊人山人海可我的人儿啊怎么不见了 \n 玛旁雍措啊波光粼粼是不是那丢失的人为我点起的圣灯 \n 林廊的人啊人来人往可我的人儿啊怎么不见了 \n 冈仁波钦啊云雾茫茫是不是那丢失的人为我燃起的神香 \n",
+                "name": "神香（中文）",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612092536_114.mp3"
+            },
+            {
+                "content": " \n 万物生 \n 从前冬天冷呀夏天雨呀水呀秋天无处传来你声音暖呀暖呀你说那时屋后面有白茫茫茫雪呀山谷里有金黄旗子在大风里飘呀我看见山鹰在寂寞两条鱼上飞两条鱼儿穿过海一样咸的河水一片河水落下来遇见人们破碎人们在行走身上落满山鹰的灰 \n 作词：高晓松作曲：萨顶顶　黄毅编曲：黄毅　萨顶顶 \n  \n",
+                "name": "万物生",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612092806_114.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "琴伤",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612092731_114.mp3"
+            }
+        ],
+        "songer": "萨顶顶"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj./jcyc/200907/W020090707679636958253.jpg",
+        "description": "专辑介绍：《慈航远渡》专辑是以佛教经典咒语为基础作词，采用电影音乐的手法，融合多种音乐表现形式，集世界音乐、民族音乐、流行音乐于一身的现代佛教音乐经典专辑。 曲风特点是开现代佛教音乐之先河，并且由出家人和流行歌手对唱组合的方式出现在专辑里面，实属国内第一组合。我邀请的是前不久在央视星光大道2007年度总决赛亚军获得者张芯，和我共同演绎了专辑中的两首曲目。非常感谢为这张专辑付出的那些朋友们，同时也感谢网友们的关注，终于让这张全新视听效果的发烧专辑面世。在不久的时间里面，全国各大寺院法物流通处有请购，正版的佛乐CD靠大家的支持，相信金钱换来的是崇高的艺术价值，更是对我最大的鼓励。近期会将部分曲目发布博客试听，也期待大家的宝贵建议和意见。（道心法师撰文）",
+        "name": "慈航远渡",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "阿弥陀佛心咒",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090707/20090707185633_114.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "释迦牟尼佛心咒",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090707/20090707185731_114.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "消灾吉祥咒",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090707/20090707185842_114.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "准提神咒",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090707/20090707185956_114.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "文殊心咒",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090707/20090707190050_114.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "大悲咒",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090707/20090707190326_114.mp3"
+            }
+        ],
+        "songer": "道心法师"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj./jcyc/200912/W020091207589048518329.bmp",
+        "description": "《华严字母》，其唱腔具有富丽幽深，殊妙难测，音律婉转曲折。一合、二合、三合犹如波涛海潮，层层叠荡，清静心田，摄受六根，仿佛使你进入真空妙有之感，更能净化心灵，得未曾有。此CD为本寺方丈所唱，愿此梵音伴随您度过美好的每一天。",
+        "name": "佛教梵呗唱诵集",
+        "listSong": [
+            {
+                "content": " \n  \n",
+                "name": "遮那妙体梵腔",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20091207/20091207152708_114.wma"
+            },
+            {
+                "content": " \n",
+                "name": "华严字母赞",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20091207/20091207153325_114.wma"
+            },
+            {
+                "content": " \n",
+                "name": "楞严咒",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20091207/20091207152945_114.wma"
+            },
+            {
+                "content": " \n",
+                "name": "大悲咒、十小咒",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20091207/20091207153556_114.wma"
+            },
+            {
+                "content": " \n  \n",
+                "name": "梵唱圣号",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20091207/20091207153353_114.wma"
+            }
+        ],
+        "songer": "悟端大和尚主唱"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj./jxcy/200906/W020090624555733123098.jpg",
+        "description": " \n 从《禅悟》感受到的神圣音韵，是源自卡伦尼什精神世界音乐天赋的自然流露。它吟颂着古代精神和信仰传统，与我们心灵深处的渴望心神感应。Karunesh (卡伦尼什) 曾住在德国的某个印度教聚会所，那里有来自世界各文化群体的音乐家。在那五年期间，卡伦尼什得以向他们请教并一起演奏。对于卡伦尼什（梵语意为“悲悯”）来说，音乐就是他所毕生追求神秘体会，从中他逐渐懂得了将不同风格和感觉编织交错成生动的共栖体，由他那独一无二的发自心灵的音符来演绎。1956年卡伦尼什出生在德国科隆。虽然孩提时代的他已经对音乐很感兴趣，少年时还参加乐队表演，但是卡伦尼什还是选择了学习平面造型设计作为职业。获得学位后，他感觉此路并不适合自己，这时卡伦尼什在一起严重的交通事故里受了伤。意外有时会造就人生，整整两星期里，生死之间的徘徊竟启明了他的精神之道。1979年，卡伦尼什初次来到了印度，开始了他的心路历程。卡伦尼什1984年发行了首张名为《心声》的唱片，这张唱片迅速成为了新流派的经典之作。接着的力作不断，销售量达到450,000张。卡伦尼什变成了这一流派的著名创始人之一。1992年后，卡伦尼什一度生活在茂伊岛，夏威夷，沐浴在热带怡人的温暖和芬芳中。这旖旎的岛国风情使他的作品在每一个听者的心里都激起美妙圣洁的情愫。在茂伊岛的一天，早饭过后，卡伦尼什与信奉道教、太极的公司总裁泰伦斯 雅尔达席地而坐，畅谈梦想和愿望。这次对话酝酿了《禅悟》的诞生。《生命的奥秘》这张音乐让你感觉就象在走马看世界，《但凭天意》携你领略中东的集市；《晨光》里飘过的长笛锺声响应出一片明朗；《黄昏》以澳大利亚土著的提格瑞斗管（didgeridoo）的吹奏为起点，领你滑翔进入恬美畅快的境地；西他声、女子的吟哦声伴你同行《印度之旅》，诉说古老城邦的神秘魔力；最后《但凭天意》的曲调徐徐融入《暮色》里的蔼蔼云雾，荡起你对美好时光的回忆，随着音乐驻足暮色中，仿佛流连在万物交错中。《生命的奥秘》吹响唤醒灵魂的号角，愿你闻乐而舞，让灵魂在音乐中舒展。\n",
+        "name": "禅悟",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "禅悟",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624104042_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "茶茗",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624104136_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "庙堂",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624104327_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "求索",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624104405_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "俗世",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624104430_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "吐息",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624104602_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "问道",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624104655_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "无我",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624104719_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "无知",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624104804_118.mp3"
+            }
+        ],
+        "songer": "Karunesh (卡伦尼什)"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj./fbzj/200906/W020090624527275780524.bmp",
+        "description": " \n 李娜、黑鸭子等知名发烧歌星倾情演绎《阿弥陀佛保佑你》 \n 李娜首唱46家寺庙认可绝对发烧DSD打造佛教首张发烧天碟；  \n 发烧歌星云集，民乐大师献艺，共同演绎佛曲，绝对超级至尊；  \n 佛教文化专家温金玉教授高度赞赏。\n",
+        "name": "阿弥陀佛保佑你",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "南无阿弥陀佛 李娜",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624093652_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "释迦牟尼佛赞 谢&#xfffd;柯逗谘甲&#xfffd;",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624093800_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "千年一叹 杨竹青",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624093814_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "观世音菩萨 邓容",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624093948_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "保佑你阿弥陀佛 谢&#xfffd;柯&#xfffd;",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624094021_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "大悲咒 杨竹青",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624094145_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "珍惜 刘芳/张玮/樊竹青",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624094214_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "取经 杨竹青",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624094406_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "地藏王菩萨赞 谢&#xfffd;柯&#xfffd;",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624094408_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "三宝歌 谢&#xfffd;柯&#xfffd;/邹畅",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624094541_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "感恩 谢&#xfffd;柯&#xfffd;",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624094553_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "梵呗盛世 杜林峰",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624094901_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "缘 杨竹青",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624094953_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "真心的笑容在每一天 杨竹青",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624095039_118.mp3"
+            }
+        ],
+        "songer": "佚名"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj./fbzj/200906/W020090624407197967642.jpg",
+        "description": "",
+        "name": "童心菩提心",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "菩提之歌",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624090340_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "佛陀与鲤鱼",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624090719_118.mp3http://"
+            },
+            {
+                "content": " \n",
+                "name": "点灯的孩子",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624091013_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "爱心树",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624091330_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "小朋友拜菩萨",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624091441_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "扫心地",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624091532_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "星星",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624091642_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "宝宝歌",
+                "mp3url": "http://http://music1.fjnet.com/attachment/MP3/20090624/20090624091738_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "早课",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624092016_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "午睡的梦",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624092020_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "在荷花塘边",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090624/20090624092047_118.mp3"
+            }
+        ],
+        "songer": "专辑作者： 林浓华 谢嘉"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj./jcyc/200906/W020090623369097965246.jpg",
+        "description": " \n 《观世音菩萨赞》 观音菩萨妙难酬，清净&#xfffd;P严累劫修， 浩浩红莲安足下，湾湾秋月锁眉头。 瓶中甘露常遍洒，手里杨枝不计秋， 千处祈求千处应，苦海常作度人舟。 观音大士悉号圆通，十二大愿誓弘深， 苦海渡迷津，救苦寻声，无刹不现身。 南无观世音菩萨摩诃萨 南无观世音菩萨摩诃萨 南无观世音菩萨摩诃萨\n",
+        "name": "观世音菩萨赞",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "南无观世音菩萨(世界音乐版)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090623/20090623095211_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "南无观世音菩萨(鸟语花香版)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090623/20090623095414_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "南无观世音菩萨(弦乐版)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090623/20090623095507_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "南无观世音菩萨(钢琴版)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090623/20090623095951_118.mp3"
+            }
+        ],
+        "songer": "许巍"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj./jxcy/200906/W020090622558392968294.bmp",
+        "description": " \n 　 古筝是中国极具特色的传统乐器。　　它的音乐柔美，清雅，塑性极大，常因乐曲的变化而呈现出不同的风貌，以清新中不失庄严，淡雅中不失通俗的独特风格。聆听时令人充分得到宁静，空灵、飘逸，完全表达佛乐的高远意境，展现佛曲的庄严清净。　　悠扬动听的古曲，赋予佛缘梵音的新创意，带给你一个与众不同的音乐意境。古筝及合成器完美结合，成功描模出海潮的清扬及壮阔，绝对带给听众最大的感动。 \n 　　古筝演奏:王&#xfffd;&#xfffd; 制作人:王森地 编曲:邹建平/王森地\n",
+        "name": "水清月现",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "水清月现（观音赞）",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090622/20090622145411_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "出水清莲",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090622/20090622150727_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "栖霞秋韵",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090622/20090622150810_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "且吟春踪",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090622/20090622150938_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "十方一切刹",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090622/20090622151300_118.mp3"
+            }
+        ],
+        "songer": "佚名"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj./jxcy/200906/W020090616563436878893.jpg",
+        "description": "",
+        "name": "清心十小咒－观音净土",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "观音灵感真言",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090616/20090616154250_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "拔一切业障根本得生净土...",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090616/20090616154957_118.mp3"
+            }
+        ],
+        "songer": "佚名"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj./fbzj/200906/W020090612516273596070.jpg",
+        "description": "",
+        "name": "无尘",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "永恒之光",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612132713_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "用心感受",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612141926_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "明亮",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612142311_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "清尘",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612142657_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "心灵渴望",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612142845_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "爱之歌",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612143051_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "光芒",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612143251_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "光明在望",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612143409_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "琉璃光",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612143445_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "感恩之心",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612143912_118.mp3"
+            }
+        ],
+        "songer": "群星"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj./fbzj/200906/W020090612574600314126.jpg",
+        "description": "",
+        "name": "无尘3",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "炽盛光明（消灾吉祥神咒）",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612153055_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "诚心",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612153523_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "慈航",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612153604_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "大慈大悲",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090612/20090612153704_118.wma"
+            },
+            {
+                "content": " \n",
+                "name": "自在欢喜",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612153810_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "心灵之歌",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090612/20090612154010_118.wma"
+            },
+            {
+                "content": " \n",
+                "name": "真挚",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090612/20090612154045_118.wma"
+            },
+            {
+                "content": " \n",
+                "name": "灵魂深处",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090612/20090612154103_118.wma"
+            },
+            {
+                "content": " \n",
+                "name": "一颗水晶",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090612/20090612154656_118.wma"
+            },
+            {
+                "content": " \n",
+                "name": "缘定",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612154828_118.mp3"
+            }
+        ],
+        "songer": "群星"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj./jxcy/200906/W020090616389402818330.jpg",
+        "description": "",
+        "name": "清心十小咒－如意宝轮",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "消灾吉祥陀罗尼",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090616/20090616143249_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "如意宝轮王陀罗尼",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090616/20090616145225_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "功德宝山神咒",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090616/20090616145432_118.mp3"
+            }
+        ],
+        "songer": "佚名"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj./fbzj/200906/W020090612537254680848.jpg",
+        "description": "",
+        "name": "无尘2",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "心灵港湾",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090612/20090612145609_118.wma"
+            },
+            {
+                "content": " \n",
+                "name": "回归宁静",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090612/20090612145723_118.wma"
+            },
+            {
+                "content": " \n",
+                "name": "天使的呢喃",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090612/20090612150113_118.wma"
+            },
+            {
+                "content": " \n",
+                "name": "静夜沉思",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090612/20090612150210_118.wma"
+            },
+            {
+                "content": " \n",
+                "name": "静心",
+                "mp3url": "http://music1.fjnet.com/attachment/WMA/20090612/20090612150304_118.wma"
+            },
+            {
+                "content": " \n",
+                "name": "心经",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612150407_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "真挚",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612150521_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "呼唤",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612150608_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "向往",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612150728_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "心灵驿站",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612150836_118.mp3"
+            }
+        ],
+        "songer": "群星"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj./jxcy/200906/W020090616555003124130.jpg",
+        "description": "",
+        "name": "清心十小咒－准提心",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "大吉祥天女咒（善女天咒）",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090616/20090616151029_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "大准提咒",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090616/20090616151500_118.mp3"
+            }
+        ],
+        "songer": "佚名"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj./fbzj/200906/W020090612399905620906.jpg",
+        "description": "",
+        "name": "唱经给你听之安心・发现了勇气",
+        "listSong": [
+            {
+                "content": " \n \n  \n  \n 慈悲忆众生&#xfffd;o南无观世音菩萨。慈佑众生&#xfffd;o救苦救难&#xfffd;o度尽苦难无尽期。 \n 南海观世音&#xfffd;o灵感观世音&#xfffd;o千手千眼观世音。大慈大悲&#xfffd;o救苦救难&#xfffd;o南无观世音菩萨。 \n 南海观世音&#xfffd;o灵感观世音&#xfffd;o千手千眼观世音。大慈大悲&#xfffd;o救苦救难&#xfffd;o南无观世音菩萨。 \n 慈悲忆众生&#xfffd;o南无观世音菩萨。慈德无边&#xfffd;o庇佑众生&#xfffd;o度尽苦难无尽期。 \n 朝念观世音&#xfffd;o暮念观世音&#xfffd;o朝暮念念不离心。大慈大悲&#xfffd;o救苦救难&#xfffd;o南无观世音菩萨。 \n 朝念观世音&#xfffd;o暮念观世音&#xfffd;o朝暮念念不离心。大慈大悲&#xfffd;o救苦救难&#xfffd;o南无观世音菩萨。 \n",
+                "name": "大慈大悲观世音（齐豫）",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612110459_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "大悲咒 （齐豫）",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612111033_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "六字大明咒（齐豫）",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090612/20090612111441_118.mp3"
+            }
+        ],
+        "songer": "齐豫"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj./jcyc/200906/W020090622635872963673.jpg",
+        "description": "",
+        "name": "Loving Kindness &amp; Wisdom",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "佛说圣佛母般若波罗蜜多心",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090622/20090622171619_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "弥勒佛咒",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090622/20090622171737_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "心经",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090622/20090622171835_118.mp3"
+            }
+        ],
+        "songer": "王菲"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj./fbzj/200906/W020090622608337804591.jpg",
+        "description": "",
+        "name": "西游记选曲",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "敢问路在何方",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090622/20090622154614_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "心中有路是坦途",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090622/20090622154653_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "晴空月儿明",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090622/20090622154720_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "唐僧抒怀",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090622/20090622154803_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "通天大道宽又阔",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090622/20090622154832_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "看我跃马扬鞭",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090622/20090622154910_118.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "青青菩提树",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20090622/20090622160911_118.mp3"
+            }
+        ],
+        "songer": "佚名"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj./jxcy/201208/W020120817347422036325.jpg",
+        "description": "",
+        "name": "维摩诘经的生命意义与关怀",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "维摩诘经的生命意义与关怀1",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120816/20120816025051_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "维摩诘经的生命意义与关怀2",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120822/20120822013852_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "维摩诘经的生命意义与关怀3",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120816/20120816030427_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "维摩诘经的生命意义与关怀4",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120817/20120817105826_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "维摩诘经的生命意义与关怀5",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120817/20120817105941_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "维摩诘经的生命意义与关怀6",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120817/20120817110059_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "维摩诘经的生命意义与关怀7",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120817/20120817110158_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "维摩诘经的生命意义与关怀8",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120817/20120817110402_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "维摩诘经的生命意义与关怀9",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120822/20120822014115_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "维摩诘经的生命意义与关怀10",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120817/20120817110838_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "维摩诘经的生命意义与关怀11",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120817/20120817111056_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "维摩诘经的生命意义与关怀12",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120817/20120817111159_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "维摩诘经的生命意义与关怀13",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120817/20120817111624_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "维摩诘经的生命意义与关怀14",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120817/20120817112039_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "维摩诘经的生命意义与关怀15",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120822/20120822020106_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "维摩诘经的生命意义与关怀16",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120817/20120817112548_.mp3"
+            }
+        ],
+        "songer": "郑振煌"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj./jxcy/201208/W020120817346402817202.jpg",
+        "description": "",
+        "name": "一念莲华",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "此生中阴(1)认识命运01_1_1",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120816/20120816040711_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "此生中阴(1)认识命运01_1_2",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120816/20120816040858_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "此生中阴(1)认识命运01_1_3",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120816/20120816041044_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "此生中阴(1)认识命运01_2_1",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120816/20120816041201_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "此生中阴(1)认识命运01_2_2",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120822/20120822023056_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "禅定中阴(2)改造命运02_2_1",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120816/20120816065220_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "禅定中阴(2)改造命运02_1_1",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120817/20120817094852_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "禅定中阴(2)改造命运02_2_2",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120816/20120816042818_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "睡梦中阴(3)治疗失眠03_1_2",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120816/20120816044127_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "睡梦中阴(3)治疗失眠03.1.1",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120822/20120822034054_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "睡梦中阴(3)治疗失眠03_2_1",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120816/20120816044307_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "睡梦中阴(3)治疗失眠03_2_2",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120816/20120816044447_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "睡梦中阴(3)治疗失眠03_2_3",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120816/20120816044839_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "睡梦中阴(3)治疗失眠03_2_4",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120822/20120822023338_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "临终中阴(4)安详善终04_1",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120816/20120816051432_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "临终中阴(4)安详善终04_2",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120822/20120822023521_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "临终中阴(4)安详善终04_3",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120816/20120816051646_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "临终中阴(4)安详善终04.4",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120822/20120822032634_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "法性中&#xfffd;&#xfffd;(5)冥界审判(一)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120816/20120816052715_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "法性中&#xfffd;&#xfffd;(5)冥界审判(二)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120822/20120822023754_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "法性中&#xfffd;&#xfffd;(5)冥界审判(三)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120816/20120816053352_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "法性中&#xfffd;&#xfffd;(5)冥界审判(四)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120822/20120822023918_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "受生中阴(6)七世因&#xfffd;&#xfffd;(一)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120822/20120822024052_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "受生中阴(6)七世因&#xfffd;&#xfffd;(二)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120822/20120822032801_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "受生中阴(6)七世因&#xfffd;&#xfffd;(三)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120822/20120822024328_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "受生中阴(6)七世因&#xfffd;&#xfffd;(四)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120816/20120816054226_.mp3"
+            }
+        ],
+        "songer": "郑振煌"
+    },
+    {
+        "cover": "http://music.fjnet.com/yyzj/tj./jxcy/201208/W020120816131406093546.jpg",
+        "description": "",
+        "name": "西藏生死书",
+        "listSong": [
+            {
+                "content": " \n",
+                "name": "西藏生死&#xfffd;&#xfffd;介&#xfffd;B1",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120816/20120816111502_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "西藏生死&#xfffd;&#xfffd;介&#xfffd;B2",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120816/20120816111824_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "西藏生死&#xfffd;&#xfffd;介&#xfffd;B3",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120816/20120816111955_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "西藏生死&#xfffd;&#xfffd;介&#xfffd;B4",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120816/20120816112117_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "西藏生死书2010年9月22(0-1)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120822/20120822040256_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "西藏生死书2010年9月22(0-2)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120822/20120822040414_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "西藏生死书2010年9月23(1-1)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120822/20120822040536_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "西藏生死书2010年9月24(2-2)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120816/20120816110130_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "西藏生死书2010年9月24(3-2)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120816/20120816110404_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "西藏生死书2011年2月24(4-1)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120816/20120816103346_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "西藏生死书2011年2月24(4-2)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120816/20120816103521_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "西藏生死书2011年2月25(5-1)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120816/20120816103655_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "西藏生死书2011年2月25(6-1)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120816/20120816104151_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "西藏生死书2011年2月25(6-2)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120816/20120816104358_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "西藏生死书2012年2月09(7-1)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120815/20120815060025_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "西藏生死书2012年2月09(7-2)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120822/20120822041409_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "西藏生死书2012年2月10(7-4)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120815/20120815060722_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "西藏生死书2012年2月10(7-5)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120815/20120815060930_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "西藏生死书2012年2月11(7-6)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120815/20120815061139_.mp3"
+            },
+            {
+                "content": " \n",
+                "name": "西藏生死书2012年2月11(7-7)",
+                "mp3url": "http://music1.fjnet.com/attachment/MP3/20120815/20120815061335_.mp3"
+            }
+        ],
+        "songer": "郑振煌主讲"
+    }
+]
