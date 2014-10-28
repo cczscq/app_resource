@@ -1,5 +1,6 @@
 {
     "success": 0,
+    "errorInfo":"网络数据异常",
     "content": [
         {
             "cover": "http://music.fjnet.com/yyzj/tj/201403/W020140326330815006259.jpg",
